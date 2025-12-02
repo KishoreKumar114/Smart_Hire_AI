@@ -35,20 +35,26 @@
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](https://via.placeholder.com/800x450/1A1A1A/FFFFFF?text=Dashboard+View)
+![Dashboard](https://github.com/KishoreKumar114/Smart_Hire_AI/blob/main/Screenshot%202025-12-01%20210605.png)
 *AI-powered dashboard with hiring metrics*
 
 ### Resume Screening
-![Resume Screening](https://via.placeholder.com/800x450/1A1A1A/FFFFFF?text=Resume+Screening+AI)
+![Resume Screening](https://github.com/KishoreKumar114/Smart_Hire_AI/blob/main/Screenshot%202025-12-01%20210636.png)
 *Automated resume parsing and candidate matching*
 
 ### AI Interview Prep
-![Interview Prep](https://via.placeholder.com/800x450/1A1A1A/FFFFFF?text=AI+Interview+Preparation)
+![Interview Prep](https://github.com/KishoreKumar114/Smart_Hire_AI/blob/main/Screenshot%202025-12-01%20210648.png)
 *Domain-specific interview questions with answers*
 
 ### JD Generator
-![JD Generator](https://via.placeholder.com/800x450/1A1A1A/FFFFFF?text=Job+Description+Generator)
+![JD Generator](https://github.com/KishoreKumar114/Smart_Hire_AI/blob/main/Screenshot%202025-12-01%20210549.png)
 *Professional job description creation tool*
+
+### Add canditate
+![canditate](https://github.com/KishoreKumar114/Smart_Hire_AI/blob/main/Screenshot%202025-12-01%20210723.png)
+
+### Analytics
+![Analytics](https://github.com/KishoreKumar114/Smart_Hire_AI/blob/main/Screenshot%202025-12-01%20210741.png)
 
 ---
 
@@ -85,4 +91,5 @@
 ```bash
 git clone https://github.com/KishoreKumar114/Smart_Hire_AI.git
 cd Smart_Hire_AI
+
 
