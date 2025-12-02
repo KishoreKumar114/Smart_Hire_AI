@@ -1,0 +1,40 @@
+{
+	"name": "discord-slash-snippets",
+	"displayName": "Discord Slash Snippets",
+	"publisher": "BisherAlmasri",
+	"description": "A free to use discord js snippets",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/BisherAlmasri/discord-slash-snippets"
+	},
+	"version": "0.1.5",
+	"engines": {
+		"vscode": "^1.73.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "javascript",
+				"path": "./snippets/snippets.code-snippets"
+			}
+		]
+	},
+	"keywords": [
+		"javascript",
+		"discord",
+		"discord.js",
+		"discordjs",
+		"discord.js-snippets",
+		"djs-snippets",
+		"djs",
+		"discord-snippets"
+	],
+	"__metadata": {
+		"installedTimestamp": 1744474268300,
+		"targetPlatform": "undefined",
+		"size": 17718
+	}
+}

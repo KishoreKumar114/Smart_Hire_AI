@@ -1,0 +1,53 @@
+458662552
+"WA_STORAGE_ROOT_NODE": { 
+   "one_on_one_call_transport": { 
+      "WA_STORAGE_TIMESTAMP": "1766455801",
+      "call_self_ip_str_hashed": "2693822505",
+      "call_peer_ip_str_hashed": "3598990730",
+      "video_tx_bitrate":     "529949",
+      "video_rx_bitrate":     "516684",
+      "call_avg_rtt":         "31",
+      "video_tx_pkt_loss_pct": "0"
+   },
+   "one_on_one_call_transport": { 
+      "WA_STORAGE_TIMESTAMP": "2088203364",
+      "call_self_ip_str_hashed": "2700937866",
+      "call_peer_ip_str_hashed": "3652131146",
+      "video_tx_bitrate":     "120864",
+      "video_rx_bitrate":     "30633",
+      "call_avg_rtt":         "575",
+      "video_tx_pkt_loss_pct": "1"
+   },
+   "one_on_one_call_transport": { 
+      "WA_STORAGE_TIMESTAMP": "2209879471",
+      "call_self_ip_str_hashed": "2700937866",
+      "call_peer_ip_str_hashed": "263612357",
+      "video_tx_bitrate":     "515675",
+      "video_rx_bitrate":     "527736",
+      "call_avg_rtt":         "42",
+      "video_tx_pkt_loss_pct": "0"
+   },
+   "one_on_one_call_transport": { 
+      "WA_STORAGE_TIMESTAMP": "1893786432",
+      "call_self_ip_str_hashed": "2695008354",
+      "call_peer_ip_str_hashed": "113137438",
+      "video_tx_bitrate":     "420396",
+      "video_rx_bitrate":     "108570",
+      "call_avg_rtt":         "78",
+      "video_tx_pkt_loss_pct": "0"
+   },
+   "one_on_one_call_transport": { 
+      "WA_STORAGE_TIMESTAMP": "2041514946",
+      "call_self_ip_str_hashed": "2696194381",
+      "call_peer_ip_str_hashed": "1439648171",
+      "video_tx_bitrate":     "299173",
+      "video_rx_bitrate":     "289971",
+      "call_avg_rtt":         "28",
+      "video_tx_pkt_loss_pct": "0"
+   },
+   "call_participant":     { 
+      "WA_STORAGE_TIMESTAMP": "1763531416092",
+      "call_participants_identifier": "2424609090",
+      "call_participants_num": "2"
+   }
+}

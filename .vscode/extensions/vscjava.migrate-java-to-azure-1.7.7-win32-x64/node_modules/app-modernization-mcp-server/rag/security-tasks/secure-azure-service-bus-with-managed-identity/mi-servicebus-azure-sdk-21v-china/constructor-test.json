@@ -1,0 +1,24 @@
+{
+  "filePattern": {
+    "shouldMatch": [
+      "src/ServiceBusExample.java",
+      "ServiceBusClient.java",
+      "nested/ServiceBusApp.java"
+    ],
+    "shouldNotMatch": [
+      "pom.xml",
+      "build.gradle",
+      "application.properties"
+    ]
+  },
+  "codePattern": {
+    "shouldMatch": [
+      "ServiceBusClientBuilder serviceBusClientBuilder() {",
+      "return new ServiceBusClientBuilder()"
+    ],
+    "shouldNotMatch": [
+      "import com.azure.messaging.servicebus.ServiceBusReceivedMessage;",
+      "UnrelatedClass unrelated = new UnrelatedClass();"
+    ]
+  }
+}

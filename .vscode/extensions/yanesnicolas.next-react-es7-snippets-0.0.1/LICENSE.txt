@@ -1,0 +1,16 @@
+Custom Snippet Extension License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this snippet extension and associated documentation files (the "Extension"), to use the Extension for personal or internal purposes within their organization.
+
+Restrictions:
+1. You may not distribute, sublicense, or sell the Extension or any derivative works.
+2. Any modifications to the Extension must be clearly documented.
+3. Before making any modifications or improvements to the Extension, you must seek permission from the original author.
+4. The Extension is provided "as is," without warranty of any kind.
+
+Acknowledgment:
+If you find this Extension useful, consider giving credit by linking to its GitHub repository.
+
+For any questions or custom licensing requests, contact the author at [yanesnicolas9@gmail.com].
+
+[End of License]

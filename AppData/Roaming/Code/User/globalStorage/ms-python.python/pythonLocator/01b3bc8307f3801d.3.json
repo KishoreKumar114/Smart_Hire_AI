@@ -1,0 +1,24 @@
+{
+  "environment": {
+    "executable": "C:\\Users\\Lenovo\\Desktop\\stockproject\\venv\\Scripts\\python.exe",
+    "prefix": "C:\\Users\\Lenovo\\Desktop\\stockproject\\venv",
+    "version": "3.13.5.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "C:\\Users\\Lenovo\\Desktop\\stockproject\\venv\\Scripts\\python.exe"
+    ]
+  },
+  "symlinks": [
+    [
+      "C:\\Users\\Lenovo\\Desktop\\stockproject\\venv\\Scripts\\python.exe",
+      {
+        "secs_since_epoch": 1749645624,
+        "nanos_since_epoch": 0
+      },
+      {
+        "secs_since_epoch": 1759218142,
+        "nanos_since_epoch": 560447100
+      }
+    ]
+  ]
+}

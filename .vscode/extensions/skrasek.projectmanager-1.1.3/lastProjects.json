@@ -1,0 +1,20 @@
+{
+   "projects": [
+      {
+         "lang": "c",
+         "path": "d:/prog/c/array"
+      },
+      {
+         "lang": "c",
+         "path": "d:/prog/c/colors"
+      },
+      {
+         "lang": "react",
+         "path": "d:/prog/react/reactts"
+      },
+      {
+         "lang": "c",
+         "path": "d:/prog/c/proc1"
+      }
+   ]
+}

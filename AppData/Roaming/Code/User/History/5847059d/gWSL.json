@@ -1,0 +1,6 @@
+{
+    "workbench.editor.empty.hint": "hidden",
+    "files.autoSave": "afterDelay",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "tabnine.experimentalAutoImports": true
+}

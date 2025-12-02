@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "c:\\Users\\Lenovo\\AppData\\Roaming\\Code\\User\\workspaceStorage\\a2b0b60ea4716341b9a86bc55d4e19ce\\redhat.java\\.7ce7318503d3df8e61a4074e2d48c16571abfb49-audit.json",
+    "files": [
+        {
+            "date": 1748333576668,
+            "name": "c:\\Users\\Lenovo\\AppData\\Roaming\\Code\\User\\workspaceStorage\\a2b0b60ea4716341b9a86bc55d4e19ce\\redhat.java\\client.log.2025-05-27",
+            "hash": "dc8288e336c62ca443f267b3c0b313da89fd804dfdd76cdd35db8f099371b189"
+        }
+    ],
+    "hashType": "sha256"
+}

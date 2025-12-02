@@ -1,0 +1,23 @@
+2253450994
+"WA_STORAGE_ROOT_NODE": { 
+   "group_call":           { 
+      "WA_STORAGE_TIMESTAMP": "78992454",
+      "call_self_ip_str_hashed": "3334290304",
+      "dl_sender_bwe":        "0",
+      "ul_sender_bwe":        "0",
+      "call_avg_rtt":         "5285",
+      "call_min_rtt":         "952803360",
+      "call_max_rtt":         "32761",
+      "max_connected_participants": "3334290304"
+   },
+   "group_call":           { 
+      "WA_STORAGE_TIMESTAMP": "1757324366472",
+      "call_self_ip_str_hashed": "3427727346",
+      "dl_sender_bwe":        "1510000",
+      "ul_sender_bwe":        "410000",
+      "call_avg_rtt":         "14",
+      "call_min_rtt":         "9",
+      "call_max_rtt":         "268",
+      "max_connected_participants": "3"
+   }
+}

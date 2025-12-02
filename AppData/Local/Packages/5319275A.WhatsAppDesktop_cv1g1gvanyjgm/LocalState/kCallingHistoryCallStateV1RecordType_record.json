@@ -1,0 +1,10 @@
+3293034556
+"WA_STORAGE_ROOT_NODE": { 
+   "kCallingHistoryCallStateV1RecordType": { 
+      "WA_STORAGE_TIMESTAMP": "1763531416096",
+      "call_participants_identifier": "2424609090",
+      "call_participants_num": "2",
+      "call_end_reconnecting": "0",
+      "call_duration_ms":     "65571"
+   }
+}

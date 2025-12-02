@@ -1,0 +1,129 @@
+{
+    "PinSettings": {
+        "IconCacheUpdated": "true",
+        "PinAppDeclined": "false",
+        "PinAppDeclineTimestampUtc": ""
+    },
+    "Flights": {
+        "Version": "2",
+        "FlightList": [
+            "KxxIEAEOGA0RBxwVX0MJHxcWFwsWUgIBChAcT0UgDhkCCxIeGlNTFwEJQyI=",
+            "KxxIAQYOHlQBGQEWAVAPAQYEBQ4QQRUBDQocWEMmGw==",
+            "KxxIHx0EAkgDAhYASFQDFwYGGQsGUgYBEQ==",
+            "KxxIFgcACw0HAhQHQEUOChMVEhAfUBQWBBEPT08\/AxANEAoABRI=",
+            "KxxIBQcPCE8VH1gXSUMHAx5IEBcXRR0XARcXAUk9GxAJFgQGGk9J",
+            "KxxIAQ0TA0wOHBoWRVQPABwRFwceRQsdBAEZTUknGxwDAREFHFNCFwoK",
+            "KxxIAQMIAUU=",
+            "KxxIExsVA00DGBwGWVACDgYABUgeQRcGChUGSVUhBgYaDQY=",
+            "KxxIBQsDGE8DHAUJRU4NHA==",
+            "KxxIFwAADkwHDRICXkUVHBsTEwEdTRQGChcPS0U1AwAdDAwcFENB",
+            "KxxIFwAADkwHGxwLSE8RHx4EFQAfRQkGAxcBQUM8AhgPCgEeGk5CGxkYSSZOFw==",
+            "KxxIFwAADkwHHAcMWkEFFhsLAgAATxcAAAMPT1Q8HQ==",
+            "KxxIFwAADkwHAwARQE8JBAUAFAYdThMXHREHQlQ2HRoeFgAUEkNTGxs=",
+            "KxxIFwAADkwHAhQTRUcHGxcMGBIbTgMdEg==",
+            "KxxIHRsVA0YSHhoGAU1VWUcJHwsZUw==",
+            "KxxIHRsVA0YSHhoGAUYKAAAE",
+            "KxxIHRsVA0YSHhoGAVMLBh8A",
+            "KxxIGwgTDU0HGAcET0sPARU=",
+            "KxxIHRsVAE8NBwIATkgJHAYCBAoHUA==",
+            "KxxIFwAADkwHGAcET0kICAYKGQkBSQkBHBYaXkEq",
+            "KxxIAAsSGE8QCRwRSU0VCxsEGgoVRgsHAAsaWhk=",
+            "KxxIFwAADkwHHBoWWEIJAAYXAwsdTgQXDAsaSVI8HwcLAgQRB09V",
+            "KxxIEwoXDU4BCRFIXkUFAAQABBwfTwMX",
+            "KxxIEw0CA1UMGAZIX1UBCBcWAhYbRwkXAQwATUMwAAAAEAMbAVNT",
+            "KxxIHwEPHFINAQURQ04VBh4AGBEUQQ4eEBcL"
+        ]
+    },
+    "UpdateSettings": {
+        "BootAfterUpdateTime": "2025-09-01T14:52:10",
+        "LastApplicationRelaunchTime": "2025-11-12T10:26:08"
+    },
+    "Identities": {
+        "IdentityProperties": {
+            "696C616D616E696B616E64616E323740676D61696C2E636F6D": {
+                "1": "3"
+            },
+            "6B726973686B6973686F72653336303040676D61696C2E636F6D": {
+                "1": "3"
+            },
+            "6B726973686B6973686F653336303040676D61696C2E636F6D": {
+                "1": "3"
+            }
+        },
+        "IdentityMap": {
+            "krishkishoe3600@gmail.com": "6B726973686B6973686F653336303040676D61696C2E636F6D",
+            "ilamanikandan27@gmail.com": "696C616D616E696B616E64616E323740676D61696C2E636F6D",
+            "krishkishore3600@gmail.com": "6B726973686B6973686F72653336303040676D61696C2E636F6D"
+        },
+        "IdentityAliases": {
+            "908e72fab04a24b47d3e2eaad3fc06355a3ff17fa0337cfa8aa1d98715555433@shadow.outlook.com": "krishkishore3600@gmail.com"
+        },
+        "CloudCache": {
+            "6B726973686B6973686F72653336303040676D61696C2E636F6D": "17633754274208229"
+        }
+    },
+    "AccountLocalBackup": {
+        "Json": "[{\"uuid\":\"c118960c-107c-4d6c-8702-8cfbaefcfd06\",\"version\":1,\"accountType\":\"Google\",\"emailAddress\":\"krishkishore3600@gmail.com\",\"userIdentity\":\"908e72fab04a24b47d3e2eaad3fc06355a3ff17fa0337cfa8aa1d98715555433@shadow.outlook.com\",\"routingHint\":\"MSA:908e72fab04a24b47d3e2eaad3fc06355a3ff17fa0337cfa8aa1d98715555433@shadow.outlook.com\",\"aliases\":[\"908e72fab04a24b47d3e2eaad3fc06355a3ff17fa0337cfa8aa1d98715555433@shadow.outlook.com\"],\"isEasidOverrideEmailAddress\":false}]"
+    },
+    "GlobalSettingsAccout": {
+        "Email": "krishkishore3600@gmail.com",
+        "Hint": "Google"
+    },
+    "Privacy": {
+        "krishkishore3600@gmail": {
+            "com": {
+                "TelemetryCollectorEndpoint": "<<DEFAULT>>"
+            }
+        }
+    },
+    "Localization": {
+        "Locale": "en"
+    },
+    "WindowBackgroundColor": "15790320",
+    "Updater": {
+        "UpdateRing": "Production",
+        "WebContext": {
+            "LogicalRing": "WW"
+        }
+    },
+    "OWASettings": {
+        "clientId": "0E898A54831D4A0E853B1F4C7706B1B7",
+        "lastOwaVersion": "20251107005.05"
+    },
+    "PromotionCampaignIds": {
+        "InstallApplication": ""
+    },
+    "Windows": {
+        "1": {
+            "RestorePosition": {
+                "rcNormal": {
+                    "x": "160",
+                    "y": "160",
+                    "width": "1440",
+                    "height": "810"
+                },
+                "rcWork": {
+                    "x": "0",
+                    "y": "0",
+                    "width": "1920",
+                    "height": "1020"
+                },
+                "dpi": "120",
+                "showCmd": "1",
+                "flags": "0",
+                "arrangeRect": {
+                    "x": "0",
+                    "y": "0",
+                    "width": "0",
+                    "height": "0"
+                },
+                "margins": {
+                    "x": "0",
+                    "y": "0",
+                    "width": "0",
+                    "height": "0"
+                }
+            }
+        }
+    }
+}

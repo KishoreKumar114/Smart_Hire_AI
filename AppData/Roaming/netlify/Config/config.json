@@ -1,0 +1,16 @@
+{
+	"telemetryDisabled": false,
+	"cliId": "9748d537-d659-4268-ae66-e350cbb0a24d",
+	"userId": "6910ec3eebf4dda8c0cd31bf",
+	"users": {
+		"6910ec3eebf4dda8c0cd31bf": {
+			"id": "6910ec3eebf4dda8c0cd31bf",
+			"name": "Kishore kumar",
+			"email": "kishorekumarr2k4@gmail.com",
+			"auth": {
+				"token": "nfc_y6q7jcoNfZw1Y7QHmuwzkt9nTBsqnHcs7eb3",
+				"github": {}
+			}
+		}
+	}
+}

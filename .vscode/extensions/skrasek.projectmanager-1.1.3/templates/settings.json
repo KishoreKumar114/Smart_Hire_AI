@@ -1,0 +1,81 @@
+{
+   "langs": [
+      {
+         "id": "c",
+         "name": "C",
+         "path": "d:/prog/c",
+         "types": [
+            {
+               "id": "default",
+               "name": "(default)"
+            }
+         ]
+      },
+      {
+         "id": "python",
+         "name": "Python",
+         "path": "d:/prog/python",
+         "types": [
+            {
+               "id": "default",
+               "name": "(default)",
+               "copyFolder": false,
+               "commands": [
+                  {
+                     "shell": "echo msgbox \"fuck you\"\"title\">msg.vbs"
+                  },
+                  {
+                     "shell": "start msg.vbs"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "id": "php",
+         "name": "PHP",
+         "path": "c:/xampp/htdocs/projects",
+         "types": [
+            {
+               "id": "default",
+               "name": "(default)"
+            },
+            {
+               "id": "mvc",
+               "name": "MVC"
+            }
+         ]
+      },
+      {
+         "id": "vs_code extension",
+         "name": "VS CODE extension",
+         "path": "d:/prog/ext"
+      },
+      {
+         "id": "angular",
+         "name": "Angular",
+         "path": "d:\\prog\\angular"
+      },
+      {
+         "id": "node.js",
+         "name": "Node.js",
+         "path": "d:\\prog\\node.js"
+      },
+      {
+         "id": "type_script",
+         "name": "Type Script",
+         "path": "d:\\prog\\ts"
+      },
+      {
+         "id": "react",
+         "name": "React",
+         "path": "d:\\prog\\react",
+         "types": [
+            {
+               "id": "typescript",
+               "name": "TypeScript"
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,318 @@
+{
+    "telemetry.machineId": "6f8bfd627f145174ee09eb178559f38050a023d8e5f764ad4125d86299517658",
+    "telemetry.sqmId": "{EC21DCB8-0F9E-42CE-9775-B80FCA20728C}",
+    "telemetry.devDeviceId": "0eb97dab-c71c-4c30-988a-20abb97b57bc",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///c%3A/Users/Lenovo/Desktop/institute%20biling%20system"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 42,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///c%3A/Users/Lenovo/Desktop/frontend": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Downloads/jackson-core-2.x/jackson-core-2.x/.github": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Desktop/frontend/.vscode": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Documents/frontend/.vscode": "__default__profile__",
+            "file:///c%3A/skill%20match/skillmatch": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Documents/frontend": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Desktop/Github": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Desktop/a": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Desktop/project": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Desktop/react": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Desktop/rohith": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Desktop/weather-app": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Desktop": "__default__profile__",
+            "file:///c%3A/Users/Lenovo": "__default__profile__",
+            "file:///c%3A/Users": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Desktop/html": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Desktop/weather-app/src": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Desktop/Portfolio": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Desktop/Notes%20App%20%28Google%20Keep%20clone%29": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Desktop/Auth-Based%20UserAdmin%20Dashboard": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Desktop/AD%20Full%20stack": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Desktop/project_3D_developer_portfolio": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Desktop/my_3D_portfolio": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Desktop/Web%20page": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/freelancer-connect": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Downloads/Futecx": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Desktop/stockproject": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Desktop/CHATBOXPROJECT": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Desktop/CHATBOXPROJECT/chat-frontend": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Downloads/ProjectStructure/ProjectStructure/frontend": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Downloads/ProjectStructure/ProjectStructure": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Downloads/ProjectStructure": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Downloads/smart-supermarket-analytics-dashboard": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Downloads/smart-market-analytics-dashboard": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Downloads/supermarket-analytics-dashboard": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Downloads/smart-market-full": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/OneDrive/Apps/Designer": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Pictures/Ram%20Portfolio": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Downloads/project_3D_developer_portfolio-main": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Downloads/project_3D_developer_portfolio-main/project_3D_developer_portfolio-main": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Downloads/my-3d-portfolio": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/nextjs-ecomerce-websites": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Documents/GitHub/Blogapp-using-MERN": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Desktop/smart_ai": "__default__profile__",
+            "file:///c%3A/Users/Lenovo/Desktop/institute%20biling%20system": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 0,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///c%3A/Users/Lenovo/Desktop/institute%20biling%20system",
+            "backupPath": "C:\\Users\\Lenovo\\AppData\\Roaming\\Code\\Backups\\f9f291c13c03fe329e7335d8ce9d7704",
+            "uiState": {
+                "mode": 1,
+                "x": 0,
+                "y": 0,
+                "width": 1208,
+                "height": 816,
+                "zoomLevel": 1
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "f74ea2e6e5b89d071ea0d2ed6272df0b": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "3b6e6b2943ea91ea91c1177efaffaa0f": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "cc8dd86f20809093087897af3ba8eff2": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "debcc12a88329cd7c99147ddbf31292b": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "f2abff2635ad563b74335890874a64e1": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "fb36c2e6002e269b0a472a20988227bb": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "cc853fee9aafac04229c8cbe0aaa98e3": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "11941e64207aa9588d5d00ff94eef03a": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "e39f9ef62237125b87da389afb5d3191": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "ef5b3ef75a987c75c96a5642c2de6431": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "a2b0b60ea4716341b9a86bc55d4e19ce": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "7254674b5b968e977378cae25f7864db": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "9bee79c80aa13bd3ae6ea35e958a507d": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "4c9ec28d63fadefa3af6f48fec455d04": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "38c34354a731dc59ded496f096f250ec": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "44669e1730b532a61ad3a754b62c2fda": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "71f8abd8207f51b96ea694c3f1bd47b8": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "dd0effac2829f99a10ccbe5eef878c8d": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "ac7644d9f5a15db618231c7dea4d7a48": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "d97a0d7d10efaff5b4f559e73358aa9c": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "7bb6334b4e3e6d83696e53fb1280ac38": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "a1a21dccfa215aff01114f4be7b335c7": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "f48feaf470c555892fe2804e3f2800ef": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "60a8ad6280f08722a0c7898a21f13729": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "d8decd037a63444935d730166dd06c3f": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "f810110d21cf8e75b9edb92819f5039c": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "9650614fb8a600f884103eefd28d17f7": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "a64f1a3e8d443107936c8cead4507dd3": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "ec5e35eca05e9cd969a3ed1fb41df51a": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "c90a257411a41e5cbd04fc6d63ea9e83": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "6d30270e0bcd58667bfb830ff30dc04a": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "daadfef43e57fdd84f1dbe586500cad4": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "8e33a5fecaac21ddd8a06ed8d1ca6dd6": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "75802ffa9c34e4775996ea109573a6aa": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "7ba9d2e3a2c37404d2d5698b64427baf": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "2652f7b485cfd44e862d73759f04bf34": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "674c34a43881b296d22472778190fb4e": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "d733242cb7c19e8d1aaf170b7a35125e": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "1f0ef1be0331f2a1b1255fd7f74e806d": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "2a4438c72202856a25733ec7ab0c3d85": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "48963b777dc8bac533470842f2ba7e87": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "2c9988e2c1eccd2720ffe44d86844592": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "c93fa5a3c3602cd57fb7957be29ff70e": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "9814b151fefb7e3479ff21f3c688d1fd": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "13a32ba3fa91a911fffa59c4fedcec3c": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "4bc37d83158553bb25e691fb626836bb": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "b5573aaf80780fd93eebafdd7823daae": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "f6b4213b68276f456c7547041303a633": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "c9a2a042e4d5efebf65c5b23a66d7900": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "83ef622a4fd257d152a75d6fe46fadf1": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

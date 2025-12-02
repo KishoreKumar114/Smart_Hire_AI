@@ -1,0 +1,14 @@
+[2025-11-23 15:48:45Z]
+ext=.mkv
+video0=HEVC,FullySupported
+audio0=AAC,FullySupported
+audio1=AAC,FullySupported
+audio2=AAC,FullySupported
+audio3=AAC,FullySupported
+audio4=AAC,FullySupported
+error=FileNoLongerAvailable
+family=SourceNotSupportedError
+hresult=0xC00D36D6
+effects.audio.enabled=False
+effects.audio.lowlatency=False
+effects.video.enabled=False

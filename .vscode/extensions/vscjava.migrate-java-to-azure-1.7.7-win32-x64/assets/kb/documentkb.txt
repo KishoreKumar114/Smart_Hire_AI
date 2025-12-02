@@ -1,0 +1,81 @@
+Several classes in the org.springframework.boot.context.embedded package have been deprecated and relocated to org.springframework.boot.web.servlet
+cglib was integrated to spring framework, package `net.sf.cglib` was relocated to `org.springframework.cglib`
+cglib was integrated to spring framework, package `net.sf.cglib.proxy` was relocated to `org.springframework.cglib.proxy`
+In Apache HttpClient 5 the X509HostnameVerifier interface has been removed. Instead you should use the HostnameVerifier interface from the javax.net.ssl package.
+In Apache HttpClient 5 the HttpRequestRetryHandler interface has been replaced by the HttpRequestRetryStrategy interface. 
+The Application.showBanner and ApplicationBuilder.showBanner methods have been deprecated in favor of setBannerMode.
+@ConditionalOnMissingClass now expects the class name to be provided using the value attribute rather than name.
+Log4JLoggingSystem is now deprecated following Apache’s EOL declaration for log4j 1.x.
+The ConfigurableEmbeddedServletContainer setJspServletClassName and setRegisterJspServlet methods have been replaced by setJspServlet.
+The EndpointMBean class (and subclasses) now expect an ObjectMapper to be provided to the constructor.
+The DropwizardMetricWriter had been replaced by DropwizardMetricService.
+The protected SpringApplication.afterRefresh method that takes a String[] has been deprecated in favor of a version that takes ApplicationArguments.
+VcapEnvironmentPostProcessor has been deprecated in favor of CloudFoundryVcapEnvironmentPostProcessor.
+The LoggingSystem initialize method has been deprecated in favor of a version that accepts LoggingInitializationContext.
+The ServerPortInfoApplicationContextInitializer has been deprecated to move it to a new package
+org.springframework.boot.autoconfigure.orm.jpa.EntityManagerFactoryBuilder has been deprecated to move it to a new package. org.springframework.boot.orm.jpa.EntityManagerFactoryBuilder should be used instead. A bean of the old type is no longer auto-configured. If your application uses this bean it should be updated to use the org.springframework.boot.orm.jpa.EntityManagerFactoryBuilder bean instead.
+Velocity support has been deprecated since support has been deprecated as of Spring Framework 4.3.
+Some constructors in UndertowEmbeddedServletContainer have been deprecated (most uses should be unaffected).
+The locations and merge attributes of the @ConfigurationProperties annotation have been deprecated in favor of directly configuring the Environment.
+The protected SpringApplication.printBanner method should no longer be used to print a custom banner. Use the Banner interface instead.
+The protected InfoEndpoint.getAdditionalInfo method has been deprecated in favor of the InfoContributor interface.
+org.springframework.boot.autoconfigure.test.ImportAutoConfiguration has been moved to org.springframework.boot.autoconfigure.
+All classes in the org.springframework.boot.test package have been deprecated. See the "upgrading" notes above for details.
+PropertiesConfigurationFactory.setProperties(Properties) is deprecated in favor of using PropertySources.
+Several classes in the org.springframework.boot.context.embedded package have been deprecated and relocated to org.springframework.boot.web.servlet.
+All classes in the org.springframework.boot.context.web package have been deprecated and relocated.
+The spring-boot-starter-ws "Starter" has been renamed to spring-boot-starter-web-services.
+The spring-boot-starter-redis "Starter" has been renamed to spring-boot-starter-data-redis.
+The spring-boot-starter-hornetq starter and auto-configuration has been deprecated in favour of using spring-boot-starter-artemis
+management.security.role has been deprecated in favour of management.security.roles
+The @org.springframework.boot.orm.jpa.EntityScan annotation has been deprecated in favor of @org.springframework.boot.autoconfigure.domain.EntityScan or explicit configuration.
+TomcatEmbeddedServletContainerFactory.getValves() has been deprecated in favor of getContextValves().
+org.springframework.boot.actuate.system.EmbeddedServerPortFileWriter has been deprecated in favor of org.springframework.boot.system.EmbeddedServerPortFileWriter
+org.springframework.boot.actuate.system.ApplicationPidFileWriter has been deprecated in favor of org.springframework.boot.system.ApplicationPidFileWriter
+setConnectTimeout(int) and setReadTimeout(int) have been deprecated in favor of similar methods that take a Duration.
+Methods used to set a data size using int have been deprecated and replaced with variants that take a DataSize.
+management.endpoints.jmx.unique-names is deprecated in favor of spring.jmx.unique-names
+The secure attribute on @AutoConfigureMockMvc has been deprecated in favor of using Spring Security’s @WithMockUser annotation.
+RestTemplateBuilder.basicAuthorization has been deprecated in favor of basicAuthentication.
+REQUEST_WRAPPER_FILTER_MAX_ORDER in AbstractFilterRegistrationBean and FilterRegistrationBean have been replaced by OrderedFilter.REQUEST_WRAPPER_FILTER_MAX_ORDER.
+The logging.file property has been renamed to logging.file.name.
+The logging.path property has been renamed to logging.file.path.
+The server.connection-timeout property has been deprecated in favor of server-specific properties since their behaviors are not strictly the same.
+The server.use-forward-headers property has been deprecated in favor of server.forward-headers-strategy; previously server.use-forward-headers=true would use the web server native support. You can now achieve the same with server.forward-headers-strategy=native. Because each server has a specific behavior, we now offer an alternative which relies on Spring’s ForwardedHeaderFilter: server.forward-headers-strategy=framework. Developers should use the option that fits best their use case.
+ReactiveWebServerApplicationContext#getWebServerFactory.
+The agent property of the Maven plugin has been renamed to agents.
+Joda time support is deprecated in favour of java.time.
+ApplicationHealthIndicator in favour of PingHealthIndicator that is always contributed.
+ConfigurationBeanFactoryMetadata in favour of ConfigurationPropertiesBean.
+ConfigurationPropertiesBindingPostProcessor constructors in favor of @EnableConfigurationProperties or the register method.
+ConfigurationPropertiesBindingPostProcessor.VALIDATOR_BEAN_NAME has moved to EnableConfigurationProperties.VALIDATOR_BEAN_NAME.
+ConfigurationPropertiesBindingPostProcessorRegistrar in favor of @EnableConfigurationProperties.
+WebTestClientBuilderCustomizer has been relocated to org.springframework.boot.test.web.reactive.server.
+The spring.http. properties have been moved to server.servlet.encoding., spring.mvc. and spring.codec., see #18827.
+SpringApplication#refresh(ApplicationContext) has been deprecated in favour of SpringApplication#refresh(ConfigurableApplicationContext).
+The ON_TRACE_PARAM used with the server.error.include-stacktrace property has been renamed to ON_PARAM.
+org.springframework.boot.autoconfigure.elasticsearch.rest.RestClientBuilderCustomizer has been deprecated in favor of org.springframework.boot.autoconfigure.elasticsearch.RestClientBuilderCustomizer
+The getErrorPath() method on org.springframework.boot.web.servlet.error.ErrorController has been deprecated in favor of settings the server.error.path property
+ConfigFileApplicationListener has been deprecated in favor of ConfigDataEnvironmentPostProcessor.
+SpringApplicationBuilder and SpringApplication methods relating to the contextClass have been deprecated in favor of alternatives that use a contextFactory.
+Some methods of CloudFoundryVcapEnvironmentPostProcessor have been deprecated to work with EnvironmentPostProcessor updates (these should affect most users).
+The BuildLog build pack support class has deprecated a few methods and replaced them with alternatives that provide more details.
+Logback constants in LoggingSystemProperties have been deprecated in favor of LogbackLoggingSystemProperties.
+The isEagerInitFilters/setEagerInitFilters methods in UndertowServletWebServerFactory have been replaced by isEagerFilterInit/setEagerFilterInit.
+A few methods from ApplicationEnvironmentPreparedEvent, ApplicationStartingEvent and SpringApplicationRunListener have been deprecated to support BootstrapContext.
+The BuildLog for buildpack support has been updated to support more data (most users will not directly use this class).
+Some Spring MVC and servlet specific properties have been deprecated (see the Web Configuration Properties section above).
+Health indicators using Spring Data Cassandra have been deprecated in favour of the ones that are using the raw driver.
+ActuatorMediaType and ApiVersion in org.springframework.boot.actuate.endpoint.http in favor of equivalents in org.springframework.boot.actuate.endpoint
+Support for beans that implement jOOQ’s *Provider callback interfaces or Settings has been deprecated. A DefaultConfigurationCustomizer should be used instead.
+EntityManagerFactoryDependsOnPostProcessor in org.springframework.boot.autoconfigure.data.jpa has been relocated to org.springframework.boot.autoconfigure.orm.jpa
+spring.artemis.host and spring.artemis.port are deprecated. Please use spring.artemis.broker-url instead.
+AbstractDataSourceInitializer has been deprecated in favor of DataSourceScriptDatabaseInitializer. Similarly, subclasses of AbstractDataSourceInitializer have been deprecated in favour of new DataSourceScriptDatabaseInitializer-based equivalents.
+SpringPhysicalNamingStrategy has been deprecated in favor of Hibernate 5.5’s CamelCaseToUnderscoresNamingStrategy
+Three methods on AbstractApplicationContextRunner have been deprecated in favor of new RunnerConfiguration-based equivalents
+The started and running methods in SpringApplicationRunListener have been replaced with versions that accept a Duration.
+Constructors in ApplicationStartedEvent and ApplicationReadyEvent have been replaced with versions that accept a Duration.
+The EnvironmentEndpoint.sanitize has been deprecated for removal
+Loading auto-configurations from spring.factories is deprecated. See above for more details.
+DatabaseDriver.GAE
+Properties under spring.security.saml2.relyingparty.registration.{id}.identityprovider have been moved to spring.security.saml2.relyingparty.registration.{id}.assertingparty. Using the old property names result in log messages on WARN level on startup.

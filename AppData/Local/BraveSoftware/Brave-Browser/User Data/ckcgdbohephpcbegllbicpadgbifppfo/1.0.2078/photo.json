@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "campaigns": [
+    {
+      "campaignId": "2af0df9f-133e-4fbc-bfca-ede3ae7b728a",
+      "logo": {
+        "imageUrl": "2f44b713-65a0-4743-a4ba-408f34f78c24/29e3c6a2-9372-48b2-9569-46b17b0a4515.png",
+        "destinationUrl": "https://get.proton.me/?affiliate=brave&url_id=1138&aff_id=1985&aff_sub2=slider&aff_sub4=ww-en-2c-mail-gro_dis-g_awa-brave_free&aff_sub5=takeover",
+        "alt": "Proton Mail - No Spam. No Ads. No Tracking. Just Total Privacy.",
+        "companyName": "Proton"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "2f44b713-65a0-4743-a4ba-408f34f78c24/5e92a986-c43c-44a6-8afb-031aeb6eb402.jpg",
+          "creativeInstanceId": "62e2b1a2-c4f4-43a7-8156-8222a5bd71f4",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "6b4ca04e-a3a3-45a0-925c-57e74c749666/3b2fd1d8-489f-4e0f-8f35-f465ca2720c0.jpg",
+          "creativeInstanceId": "7ad60bcb-7bfd-412a-823f-541574ea97a7",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "6b4ca04e-a3a3-45a0-925c-57e74c749666/29e3c6a2-9372-48b2-9569-46b17b0a4515.png",
+            "destinationUrl": "https://get.proton.me/?affiliate=brave&url_id=1138&aff_id=1985&aff_sub2=slider&aff_sub4=ww-en-2c-mail-gro_dis-g_awa-brave_free&aff_sub5=takeover",
+            "alt": "Proton Mail - No Spam. No Ads. No Tracking. Just Total Privacy.",
+            "companyName": "Proton"
+          }
+        },
+        {
+          "imageUrl": "6c05b81e-2221-4e96-87e4-57fb70692abd/8233d693-27d2-4377-b91b-b862261785e3.jpg",
+          "creativeInstanceId": "059b2d9c-7af5-47e1-8e44-c9b5792d36a3",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "6c05b81e-2221-4e96-87e4-57fb70692abd/29e3c6a2-9372-48b2-9569-46b17b0a4515.png",
+            "destinationUrl": "https://get.proton.me/?affiliate=brave&url_id=1138&aff_id=1985&aff_sub2=slider&aff_sub4=ww-en-2c-mail-gro_dis-g_awa-brave_free&aff_sub5=takeover",
+            "alt": "Proton Mail - No Spam. No Ads. No Tracking. Just Total Privacy.",
+            "companyName": "Proton"
+          }
+        },
+        {
+          "imageUrl": "f5fdc13a-0530-4e32-b3ff-399b22e11239/1cdfd321-aae9-405e-a4fc-40c99fc912aa.jpg",
+          "creativeInstanceId": "2d11adaa-570a-4ada-83aa-b1c2d6620118",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "f5fdc13a-0530-4e32-b3ff-399b22e11239/29e3c6a2-9372-48b2-9569-46b17b0a4515.png",
+            "destinationUrl": "https://get.proton.me/?affiliate=brave&url_id=1138&aff_id=1985&aff_sub2=slider&aff_sub4=ww-en-2c-mail-gro_dis-g_awa-brave_free&aff_sub5=takeover",
+            "alt": "Proton Mail - No Spam. No Ads. No Tracking. Just Total Privacy.",
+            "companyName": "Proton"
+          }
+        }
+      ]
+    }
+  ],
+  "campaigns2": [
+    {
+      "campaignId": "2af0df9f-133e-4fbc-bfca-ede3ae7b728a",
+      "logo": {
+        "imageUrl": "2f44b713-65a0-4743-a4ba-408f34f78c24/29e3c6a2-9372-48b2-9569-46b17b0a4515.png",
+        "destinationUrl": "https://get.proton.me/?affiliate=brave&url_id=1138&aff_id=1985&aff_sub2=slider&aff_sub4=ww-en-2c-mail-gro_dis-g_awa-brave_free&aff_sub5=takeover",
+        "alt": "Proton Mail - No Spam. No Ads. No Tracking. Just Total Privacy.",
+        "companyName": "Proton"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "2f44b713-65a0-4743-a4ba-408f34f78c24/5e92a986-c43c-44a6-8afb-031aeb6eb402.jpg",
+          "creativeInstanceId": "62e2b1a2-c4f4-43a7-8156-8222a5bd71f4",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "6b4ca04e-a3a3-45a0-925c-57e74c749666/3b2fd1d8-489f-4e0f-8f35-f465ca2720c0.jpg",
+          "creativeInstanceId": "7ad60bcb-7bfd-412a-823f-541574ea97a7",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "6b4ca04e-a3a3-45a0-925c-57e74c749666/29e3c6a2-9372-48b2-9569-46b17b0a4515.png",
+            "destinationUrl": "https://get.proton.me/?affiliate=brave&url_id=1138&aff_id=1985&aff_sub2=slider&aff_sub4=ww-en-2c-mail-gro_dis-g_awa-brave_free&aff_sub5=takeover",
+            "alt": "Proton Mail - No Spam. No Ads. No Tracking. Just Total Privacy.",
+            "companyName": "Proton"
+          }
+        },
+        {
+          "imageUrl": "6c05b81e-2221-4e96-87e4-57fb70692abd/8233d693-27d2-4377-b91b-b862261785e3.jpg",
+          "creativeInstanceId": "059b2d9c-7af5-47e1-8e44-c9b5792d36a3",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "6c05b81e-2221-4e96-87e4-57fb70692abd/29e3c6a2-9372-48b2-9569-46b17b0a4515.png",
+            "destinationUrl": "https://get.proton.me/?affiliate=brave&url_id=1138&aff_id=1985&aff_sub2=slider&aff_sub4=ww-en-2c-mail-gro_dis-g_awa-brave_free&aff_sub5=takeover",
+            "alt": "Proton Mail - No Spam. No Ads. No Tracking. Just Total Privacy.",
+            "companyName": "Proton"
+          }
+        },
+        {
+          "imageUrl": "f5fdc13a-0530-4e32-b3ff-399b22e11239/1cdfd321-aae9-405e-a4fc-40c99fc912aa.jpg",
+          "creativeInstanceId": "2d11adaa-570a-4ada-83aa-b1c2d6620118",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "f5fdc13a-0530-4e32-b3ff-399b22e11239/29e3c6a2-9372-48b2-9569-46b17b0a4515.png",
+            "destinationUrl": "https://get.proton.me/?affiliate=brave&url_id=1138&aff_id=1985&aff_sub2=slider&aff_sub4=ww-en-2c-mail-gro_dis-g_awa-brave_free&aff_sub5=takeover",
+            "alt": "Proton Mail - No Spam. No Ads. No Tracking. Just Total Privacy.",
+            "companyName": "Proton"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+	"name": "next-react-es7-snippets",
+	"displayName": "Next React/ES7+/React-Native snippets",
+	"description": "This extension contain snippets for Nextjs, React, React-Native, Redux in JS/TS with ES7+ syntax and Tailwind",
+	"version": "0.0.1",
+	"publisher": "YanesNicolas",
+	"icon": "images/logo.png",
+	"engines": {
+		"vscode": "^1.88.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yanesnicolas/next-react-tailwind-snippets"
+	},
+	"contributes": {
+		"snippets": [
+			{
+				"language": "typescript",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "javascript",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./snippets/snippets.code-snippets"
+			}
+		]
+	},
+	"__metadata": {
+		"installedTimestamp": 1756130902401,
+		"targetPlatform": "undefined",
+		"size": 78430
+	}
+}

@@ -1,0 +1,69 @@
+{
+	"name": "vscode-github-actions",
+	"displayName": "GitHub Actions",
+	"description": "YAML schema validation and auto-completion for GitHub Actions.",
+	"version": "3.0.1",
+	"publisher": "me-dutour-mathieu",
+	"engines": {
+		"vscode": "^1.25.0"
+	},
+	"license": "MIT",
+	"categories": [
+		"Snippets",
+		"Programming Languages",
+		"Other"
+	],
+	"keywords": [
+		"yaml",
+		"github",
+		"actions",
+		"workflow"
+	],
+	"icon": "images/logo.png",
+	"bugs": {
+		"url": "https://github.com/Lona/vscode-github-actions/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Lona/vscode-github-actions.git"
+	},
+	"activationEvents": [
+		"onLanguage:yaml"
+	],
+	"main": "./out/src/extension",
+	"contributes": {},
+	"extensionDependencies": [
+		"redhat.vscode-yaml"
+	],
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "npm run compile:ts",
+		"compile:ts": "tsc -p ./",
+		"compile:schema": "find ./src/schemas -type f -maxdepth 1 -exec \"js-yaml '{}'\" \\;",
+		"watch": "tsc -watch -p ./",
+		"postinstall": "node ./node_modules/vscode/bin/install",
+		"test:e2e": "npm run compile && node ./node_modules/vscode/bin/test",
+		"test:unit": "jest --no-watchman"
+	},
+	"dependencies": {
+		"fuse.js": "^3.4.5",
+		"js-yaml": "^3.13.1"
+	},
+	"devDependencies": {
+		"@types/jest": "^24.0.23",
+		"@types/js-yaml": "^3.12.1",
+		"@types/node": "^12.0.0",
+		"ajv": "^6.10.2",
+		"jest": "^24.9.0",
+		"jest-json-schema": "^2.1.0",
+		"ts-jest": "^24.2.0",
+		"tslint": "^5.20.0",
+		"typescript": "^3.6.4",
+		"vscode": "^1.1.36"
+	},
+	"__metadata": {
+		"installedTimestamp": 1753078446678,
+		"targetPlatform": "undefined",
+		"size": 960035
+	}
+}

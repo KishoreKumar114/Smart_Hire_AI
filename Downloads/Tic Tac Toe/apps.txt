@@ -1,0 +1,133 @@
+apps/
+└── web-portal/
+    └── src/
+        ├── pages/
+        │   └── admin/
+        │       ├── buses/
+        │       │   ├── BusList.tsx
+        │       │   ├── BusForm.tsx
+        │       │   └── index.ts
+        │       ├── routes/
+        │       │   ├── RouteList.tsx
+        │       │   ├── RouteForm.tsx
+        │       │   └── index.ts
+        │       ├── bookings/
+        │       │   ├── BookingList.tsx
+        │       │   ├── BookingDetails.tsx
+        │       │   └── index.ts
+        │       ├── manage-users/
+        │       │   ├── UserList.tsx
+        │       │   ├── UserForm.tsx
+        │       │   └── index.ts
+        │       └── dashboard/
+        │           ├── AdminDashboard.tsx
+        │           └── index.ts
+        ├── components/
+        │   └── admin/
+        │       ├── buses/
+        │       │   ├── BusTable.tsx
+        │       │   ├── BusSearchBar.tsx
+        │       │   ├── BusFormModal.tsx
+        │       │   └── index.ts
+        │       ├── routes/
+        │       │   ├── RouteTable.tsx
+        │       │   ├── RouteSearchBar.tsx
+        │       │   ├── RouteFormModal.tsx
+        │       │   └── index.ts
+        │       ├── bookings/
+        │       │   ├── BookingTable.tsx
+        │       │   ├── BookingFilters.tsx
+        │       │   ├── BookingStats.tsx
+        │       │   └── index.ts
+        │       ├── users/
+        │       │   ├── UserTable.tsx
+        │       │   ├── UserFormModal.tsx
+        │       │   └── index.ts
+        │       ├── layout/
+        │       │   ├── AdminSidebar.tsx
+        │       │   ├── AdminHeader.tsx
+        │       │   └── index.ts
+        │       ├── charts/
+        │       │   ├── RevenueChart.tsx
+        │       │   ├── BookingChart.tsx
+        │       │   └── index.ts
+        │       └── common/
+        │           ├── StatsCard.tsx
+        │           ├── SearchBox.tsx
+        │           ├── DataTable.tsx
+        │           └── index.ts
+        ├── hooks/
+        │   ├── rq/
+        │   │   └── queries/
+        │   │       ├── buses/
+        │   │       │   ├── useBuses.ts
+        │   │       │   ├── useBus.ts
+        │   │       │   └── index.ts
+        │   │       ├── routes/
+        │   │       │   ├── useRoutes.ts
+        │   │       │   ├── useRoute.ts
+        │   │       │   └── index.ts
+        │   │       ├── bookings/
+        │   │       │   ├── useBookings.ts
+        │   │       │   ├── useBooking.ts
+        │   │       │   └── index.ts
+        │   │       └── users/
+        │   │           ├── useUsers.ts
+        │   │           ├── useUser.ts
+        │   │           └── index.ts
+        │   └── mutations/
+        │       ├── buses/
+        │       │   ├── useCreateBus.ts
+        │       │   ├── useUpdateBus.ts
+        │       │   ├── useDeleteBus.ts
+        │       │   └── index.ts
+        │       ├── routes/
+        │       │   ├── useCreateRoute.ts
+        │       │   ├── useUpdateRoute.ts
+        │       │   ├── useDeleteRoute.ts
+        │       │   └── index.ts
+        │       ├── bookings/
+        │       │   ├── useUpdateBooking.ts
+        │       │   ├── useCancelBooking.ts
+        │       │   └── index.ts
+        │       └── users/
+        │           ├── useCreateUser.ts
+        │           ├── useUpdateUser.ts
+        │           ├── useDeleteUser.ts
+        │           └── index.ts
+        ├── services/
+        │   ├── api/
+        │   │   ├── admin/
+        │   │   │   ├── busService.ts
+        │   │   │   ├── routeService.ts
+        │   │   │   ├── bookingService.ts
+        │   │   │   ├── userService.ts
+        │   │   │   └── index.ts
+        │   │   └── axiosInstance.ts
+        │   └── constants/
+        │       ├── busTypes.ts
+        │       ├── cities.ts
+        │       ├── statuses.ts
+        │       └── index.ts
+        ├── types/
+        │   ├── admin/
+        │   │   ├── bus.types.ts
+        │   │   ├── route.types.ts
+        │   │   ├── booking.types.ts
+        │   │   ├── user.types.ts
+        │   │   └── index.ts
+        │   └── common.types.ts
+        └── utils/
+            ├── admin/
+            │   ├── busHelpers.ts
+            │   ├── routeHelpers.ts
+            │   ├── bookingHelpers.ts
+            │   └── index.ts
+            ├── formatters/
+            │   ├── dateFormatter.ts
+            │   ├── currencyFormatter.ts
+            │   └── index.ts
+            └── validators/
+                ├── busValidators.ts
+                ├── routeValidators.ts
+                └── index.ts

@@ -1,0 +1,265 @@
+{
+	"app": {
+		"installationId": "ecb488c7-6a8f-40db-b77b-14e2257e051a"
+	},
+	"appWindow": {
+		"titleBarAreaWidth": {
+			"A": "10.0.26100"
+		}
+	},
+	"dynamicConfig": {
+		"faviconRegex": "images/favicons/.*[.]svg",
+		"lastUpdatedTimestamp": 1764503885645,
+		"appMemory": {
+			"buckets": [
+				{
+					"from": 2,
+					"to": 10240,
+					"sampleRate": 1
+				}
+			],
+			"startDelayMinutes": 5,
+			"periodicCheckIntervalHours": 1
+		},
+		"appStoreReview": {
+			"minimumPromptActivationCount": 2,
+			"minimumDaysSinceLastPrompt": 60,
+			"maximumPromptPerYear": 3,
+			"macAppStoreUrl": "itms-apps://apps.apple.com/app/id897446215?action=write-review",
+			"windowsMicrosoftStoreUrl": "ms-windows-store://review/?ProductId=XP8K17RNMM8MTN"
+		},
+		"deeplink": {
+			"patterns": [
+				{
+					"destination": "EDITOR",
+					"path": "/design"
+				},
+				{
+					"destination": "EDITOR",
+					"path": "/design/*"
+				},
+				{
+					"destination": "EDITOR",
+					"path": "/design/*/edit"
+				},
+				{
+					"destination": "EDITOR",
+					"path": "/design/*/*/edit"
+				},
+				{
+					"destination": "EDITOR",
+					"path": "/design/*/remix"
+				},
+				{
+					"destination": "EDITOR",
+					"path": "/design/*/*/remix"
+				},
+				{
+					"destination": "EDITOR",
+					"path": "/design/*/view"
+				},
+				{
+					"destination": "EDITOR",
+					"path": "/design/*/*/view"
+				},
+				{
+					"destination": "EDITOR",
+					"path": "/design/*/watch"
+				},
+				{
+					"destination": "EDITOR",
+					"path": "/design/*/*/watch"
+				},
+				{
+					"destination": "EDITOR",
+					"path": "/design-school/certification-award/**"
+				},
+				{
+					"destination": "EDITOR",
+					"path": "/design-school/courses/*/view/**"
+				},
+				{
+					"destination": "EDITOR",
+					"path": "/design-school/lessons/*/view/**"
+				},
+				{
+					"destination": "EDITOR",
+					"path": "/design-school/test/**"
+				},
+				{
+					"destination": "HOME",
+					"path": "/"
+				},
+				{
+					"destination": "HOME",
+					"path": "/offline-designs"
+				},
+				{
+					"destination": "HOME",
+					"path": "/verifyEmail"
+				},
+				{
+					"destination": "HOME",
+					"path": "/whats-new"
+				},
+				{
+					"destination": "HOME",
+					"path": "/account/**"
+				},
+				{
+					"destination": "HOME",
+					"path": "/assistant/**"
+				},
+				{
+					"destination": "HOME",
+					"path": "/brand/**"
+				},
+				{
+					"destination": "HOME",
+					"path": "/design-school/**"
+				},
+				{
+					"destination": "HOME",
+					"path": "/discover/**"
+				},
+				{
+					"destination": "HOME",
+					"path": "/folder/**"
+				},
+				{
+					"destination": "HOME",
+					"path": "/help/**"
+				},
+				{
+					"destination": "HOME",
+					"path": "/icons/**"
+				},
+				{
+					"destination": "HOME",
+					"path": "/menu/**"
+				},
+				{
+					"destination": "HOME",
+					"path": "/planner/**"
+				},
+				{
+					"destination": "HOME",
+					"path": "/photos/**"
+				},
+				{
+					"destination": "HOME",
+					"path": "/projects/**"
+				},
+				{
+					"destination": "HOME",
+					"path": "/search/**"
+				},
+				{
+					"destination": "HOME",
+					"path": "/settings/**"
+				},
+				{
+					"destination": "HOME",
+					"path": "/teams/**"
+				},
+				{
+					"destination": "HOME",
+					"path": "/templates/**"
+				},
+				{
+					"destination": "HOME",
+					"path": "/p/templates/**"
+				},
+				{
+					"destination": "HOME",
+					"path": "/rewards/**"
+				}
+			]
+		},
+		"error": {
+			"errorMessageFilters": [
+				{
+					"pattern": "Expected dimensions to be in integer but found",
+					"fromVersion": "1.90.0",
+					"toVersion": "1.95.0"
+				},
+				{
+					"pattern": "SendWithFetch: The operation was aborted due to timeout",
+					"fromVersion": "1.89.0",
+					"toVersion": "1.89.1"
+				},
+				{
+					"pattern": "Update verification failed",
+					"fromVersion": "1.89.0",
+					"toVersion": "1.95.0"
+				},
+				{
+					"pattern": "spawn powershell.exe ENOENT",
+					"fromVersion": "1.89.0",
+					"toVersion": "1.95.0"
+				},
+				{
+					"pattern": "Spawn closed with non zero exit code",
+					"fromVersion": "1.89.0",
+					"toVersion": "1.95.0"
+				},
+				{
+					"pattern": "HTTP forbidden on: .*",
+					"fromVersion": "1.101.0",
+					"toVersion": "1.105.0"
+				},
+				{
+					"pattern": "net::.*",
+					"fromVersion": "1.99.0",
+					"toVersion": "1.111.0"
+				},
+				{
+					"pattern": "Could not find tab index at -1",
+					"fromVersion": "1.112.0",
+					"toVersion": "1.112.0"
+				},
+				{
+					"pattern": ".*ERR_FAILED.*-2.*",
+					"fromVersion": "1.99.0",
+					"toVersion": "1.118.0"
+				},
+				{
+					"pattern": ".*Expected view to exist when calling refreshPageName.*",
+					"fromVersion": "1.108.0",
+					"toVersion": "1.118.0"
+				}
+			],
+			"sampleRate": 1
+		},
+		"route": {
+			"designDocumentIdMatchers": [
+				"^/design/(?<docId>D[a-zA-Z0-9_-]{10})"
+			],
+			"designEditPathMatchers": [
+				"^/design/(D[a-zA-Z0-9_-]{10}).*/edit"
+			],
+			"designViewPathMatchers": [
+				"^/design/(D[a-zA-Z0-9_-]{10}).*/view"
+			],
+			"designWatchPathMatchers": [
+				"^/design/(D[a-zA-Z0-9_-]{10}).*/watch"
+			]
+		},
+		"tabMemoryReporterSettings": {
+			"periodicCheckTimeout": 10000,
+			"thresholdMemoryChangePercent": 10
+		},
+		"telemetry": {
+			"isEnabled": true,
+			"endpoint": "https://telemetry.canva.com/v1/traces",
+			"traceSamplingRate": 0.05
+		}
+	},
+	"i18n": {
+		"profileLocale": "en-IN"
+	},
+	"theme": {
+		"isHighColorContrast": false,
+		"type": "LIGHT"
+	}
+}

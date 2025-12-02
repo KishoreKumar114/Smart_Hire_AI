@@ -1,0 +1,38 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "icon128.png",
+         "16": "icon16.png",
+         "48": "icon48.png"
+      },
+      "default_popup": "index.html"
+   },
+   "background": {
+      "service_worker": "background.js",
+      "type": "module"
+   },
+   "content_security_policy": {
+      "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; worker-src 'self'; object-src 'self'; img-src 'self' * data:; connect-src 'self' https://*.hero.io https://*.quiknode.pro https://pulse.walletconnect.org https://pulse.walletconnect.org/* wss://relay.walletconnect.org https://*.walletconnect.org; media-src * mediastream: blob:"
+   },
+   "description": "Secure decentralized crypto wallet to access your digital assets across multiple networks.",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0k4bCLUhBJ6/14Q8uuqUvzHgeVjSAr9pR9QRRYXJrNVTK9D4M+TssMRGlprGk5IQMGowAmkTm46zbSHtBFYs/ucDgO2zFBR/DNCDFIdA3GFD/nvVowgIZrMJMExZhIPNHVUGmyIdiDbyJfs9S0d4/PCoNMbMN3ZTr9o4U37B8ky1UmRfQm7xKmtH+BdvkZWY8hYpG0mKMBLbbh+bFRY9+5K6jIavZ+h76USsOs2mqiLIMg/wsVDl/LI9CijYB+0+X0YwNUA2tyP0WhGoCBNnRtOoxGeOfyGyXIDqPLRTDcYFJ8tfb9/whTJv0qCCIAO7uFgp5svU7olrhc8S8G4mfQIDAQAB",
+   "manifest_version": 3,
+   "name": "Hero Wallet | hero.io",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "index.html"
+   },
+   "permissions": [ "activeTab", "background", "clipboardRead", "clipboardWrite", "sessions", "storage", "tabs", "unlimitedStorage", "webRequest", "windows" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.3",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "assets/*.wasm", "js/*", "framework/*", "assets/js/*", "assets/*" ]
+   } ]
+}

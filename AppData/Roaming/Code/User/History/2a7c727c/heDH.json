@@ -1,0 +1,17 @@
+{
+  "name": "auth-based-useradmin-dashboard",
+  "version": "1.0.0",
+  "main": "index.js",
+
+
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "firebase": "^11.9.1",
+    "react-router-dom": "^7.6.2",
+    "react-scripts": "^5.0.1"
+  }
+}

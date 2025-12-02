@@ -1,0 +1,5067 @@
+node demo.js
+node demo.js
+clear
+node demo.js
+clear
+node demo.js
+clear
+node demo.js
+clear
+node demo.js
+clear
+node demo.js
+clear
+node demo.js
+clear
+node demo.js
+clear
+node demo.js
+clear
+node demo.js
+clear
+node demo.js
+clear
+node demo.js
+clear
+node demo.js
+clear
+node demo.js
+clear
+node demo.js
+clear
+node demo.js 10
+clear
+node demo.js
+clear
+node demo.js
+node demo.jsclear
+clear
+node demo.js
+clear
+node demo.js
+clear
+node demo.js
+node mani.js
+clear
+node mani.js
+clear
+node mani.js
+clear
+python
+npx expo start
+cd skillmatch
+npx expo start
+node -v
+cd skill match
+cd skillmatch
+npx expo start
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
+npx expo start
+git clone https://github.com/ilamanikandan/mani1.git
+cd githubmani1
+clear
+cd mani1
+add test.2txt
+clear
+git add test.2txt
+git comit "test.2txt file added"
+git push origin main
+git add test3.txt
+clr
+c;lear
+clear
+git add test.3txt
+clear
+git add test.3txt
+clear
+git push origin main
+npm start
+npm install react-router-dom`
+
+npm start
+npx create-react-app my-app`
+cd my-app`
+npm start`
+
+npm install
+mkdir src/components
+mkdir src/pages
+npx create-react-app my-react-site`
+cd my-react-site`
+mkdir src/components`
+
+npm start
+clear
+npm start
+clear
+mkdir -p weather-app/src/components weather-app/public && \`
+touch weather-app/src/components/WeatherCard.jsx \`
+weather-app/src/App.jsx \`
+weather-app/src/main.jsx \`
+weather-app/src/index.css \`
+weather-app/public/index.html \`
+weather-app/tailwind.config.js \`
+weather-app/package.json`
+
+clear
+npx create-react-app scientific-calculator`
+
+npm start
+clear
+npm start
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+y
+clear
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+clear
+npx create-react-app weather-app`
+
+npm start
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser`
+npm start
+npm start
+rmdir /s /q weather-app
+rmdir /s /q weather-app`
+
+Remove-Item -Recurse -Force weather-app
+rmdir /s /q weather-app`
+clear
+npx create-react-app weather-app`
+
+npm start
+cd weather-app npm start
+npm start
+node-v
+node -v
+env/Scripts/activate
+env\Scripts\Activate.ps1`
+
+npm start
+npm init -y
+npx create-react-app weather-app
+Npm run dev
+npm run dev
+npm install
+npm run dev
+npm install`
+npm start
+clr
+clear
+npm install`
+npm start
+npx create-react-app weather-app
+cd weather-app`
+npm start
+npm init -y
+npm install
+npm start
+npm install react react-dom`
+npm install --save-dev react-scripts
+npm start
+npm run dev
+npm install react-scripts
+npm start
+npm run dev
+npm run dev`
+
+npm start
+cd C:\Users\Lenovo\Desktop\weather-app\weather-app`
+
+npm install
+npm start
+npm install
+npm start
+Remove-Item -Recurse -Force node_modules, package-lock.json
+npm install
+clear
+rm -rf node_modules package-lock.json`
+
+clear
+Remove-Item -Recurse -Force node_modules
+Remove-Item -Force package-lock.json
+cdC:\Users\Lenovo\Desktop\weather-app\weather-app
+cd "C:\Users\Lenovo\Desktop\weather-app\weather-app"
+Remove-Item -Recurse -Force node_modules
+Remove-Item -Force package-lock.json
+npm install react-scripts --save
+npm install
+npm start
+npm install react react-dom web-vitals`
+
+npm start
+npm install
+npm start
+clear
+npm install axios`
+
+npm start
+npm install
+npm start
+npx create-react-app weather-app`
+cd weather-app
+cd weather-app`
+npm start
+npm start
+clear
+npm start
+npm init -y
+npm start
+cd weather-app`
+npm start
+npm install -D tailwindcss postcss autoprefixer`
+npx tailwindcss init -p`
+
+cd weather-app`
+
+cat package.json`
+
+npm install
+npm start
+npm install -D tailwindcss postcss autoprefixer`
+npx tailwindcss init -p`
+
+cd weather-app`
+
+npm start
+clear
+npm init -y
+np start
+clear
+npm init -y
+npm install
+npm cd weather-app`
+npm start
+npm install react-scripts
+npm install react react-dom`
+npm install --save-dev react-scripts
+npm star
+cd weather-app`
+npm start
+npx create-vite
+npm install
+npm run dev
+npm install
+npx create-react-app weather-app
+npm star
+npx create-react-portfolio
+npx create-react-appclear
+clear
+npx create-vite
+npm install
+npm run dev
+npm install tailwindcss @tailwindcss/vite
+npm install emailjs-com
+npx create-react-app notes-app
+cd notes-app`
+
+npm install -D tailwindcss`
+
+npx tailwindcss init`
+
+npx tailwindcss init
+rm -rf node_modules package-lock.json`
+npm install`
+
+Remove-Item -Recurse -Force node_modules, package-lock.json`
+
+clear
+npm install`
+
+npx create-react-app test-notes-app
+cd notes-app
+cd test-notes-app
+npm install -D tailwindcss`
+
+npx tailwindcss init`
+
+npm install nanoid`
+
+npm start`
+
+cd test-notes-appnpm start
+cd test-notes-app
+cd test-notes-app`
+npm start
+cd : Cannot find path 'C:\Users\Lenovo\Desktop\Notes App (Google Keep clone)\test-notes-app\test-notes-app' because it does not exist.`
+At line:1 char:1`
++ cd test-notes-app`
++ ~~~~~~~~~~~~~~~~~`
+    + CategoryInfo          : ObjectNotFound: (C:\Users\Lenovo...\test-notes-app:String) [Set-Location], ItemNotFoundException`
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.SetLocationCommand`
+ `
+npm error code ENOENT`
+npm error syscall open`
+npm error path C:\Users\Lenovo\Desktop\Notes App (Google Keep clone)\test-notes-app\package.json`
+npm error errno -4058`
+npm error enoent Could not read package.json: Error: ENOENT: no such file or directory, open 'C:\Users\Lenovo\Desktop\Notes App (Google Keep clone)\test-notes-app\package.json'`
+npm error enoent This is related to npm not being able to find a file.`
+npm error enoent`
+npm error A complete log of this run can be found in: C:\Users\Lenovo\AppData\Local\npm-cache\_logs\2025-06-23T18_23_25_991Z-debug-0.log`
+PS C:\Users\Lenovo\Desktop\Notes App (Google Keep clone)\test-notes-app> cd : Cannot find path 'C:\Users\Lenovo\Desktop\Notes App (Google Keep clone)\test-notes-app\test-notes-app' because it does not exist.`
+At line:1 char:1`
++ cd test-notes-app`
++ ~~~~~~~~~~~~~~~~~`
+    + CategoryInfo          : ObjectNotFound: (C:\Users\Lenovo...\test-notes-app:String) [Set-Location], ItemNotFoundException`
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.SetLocationCommand`
+ `
+npm error code ENOENT`
+npm error syscall open`
+npm error path C:\Users\Lenovo\Desktop\Notes App (Google Keep clone)\test-notes-app\package.json`
+npm error errno -4058`
+npm error enoent Could not read package.json: Error: ENOENT: no such file or directory, open 'C:\Users\Lenovo\Desktop\Notes App (Google Keep clone)\test-notes-app\package.json'`
+npm error enoent This is related to npm not being able to find a file.`
+npm error enoent`
+npm error A complete log of this run can be found in: C:\Users\Lenovo\AppData\Local\npm-cache\_logs\2025-06-23T18_23_25_991Z-debug-0.log`
+PS C:\Users\Lenovo\Desktop\Notes App (Google Keep clone)\test-notes-app> cd : Cannot find path 'C:\Users\Lenovo\Desktop\Notes App (Google Keep clone)\test-notes-app\test-notes-app' because it does not exist.`
+At line:1 char:1`
++ cd test-notes-app`
++ ~~~~~~~~~~~~~~~~~`
+    + CategoryInfo          : ObjectNotFound: (C:\Users\Lenovo...\test-notes-app:String) [Set-Location], ItemNotFoundException`
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.SetLocationCommand`
+ `
+npm error code ENOENT`
+npm error syscall open`
+npm error path C:\Users\Lenovo\Desktop\Notes App (Google Keep clone)\test-notes-app\package.json`
+npm error errno -4058`
+npm error enoent Could not read package.json: Error: ENOENT: no such file or directory, open 'C:\Users\Lenovo\Desktop\Notes App (Google Keep clone)\test-notes-app\package.json'`
+npm error enoent This is related to npm not being able to find a file.`
+npm error enoent`
+npm error A complete log of this run can be found in: C:\Users\Lenovo\AppData\Local\npm-cache\_logs\2025-06-23T18_23_25_991Z-debug-0.log`
+PS C:\Users\Lenovo\Desktop\Notes App (Google Keep clone)\test-notes-app> cd : Cannot find path 'C:\Users\Lenovo\Desktop\Notes App (Google Keep clone)\test-notes-app\test-notes-app' because it does not exist.`
+At line:1 char:1`
++ cd test-notes-app`
++ ~~~~~~~~~~~~~~~~~`
+    + CategoryInfo          : ObjectNotFound: (C:\Users\Lenovo...\test-notes-app:String) [Set-Location], ItemNotFoundException`
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.SetLocationCommand`
+ `
+npm error code ENOENT`
+npm error syscall open`
+npm error path C:\Users\Lenovo\Desktop\Notes App (Google Keep clone)\test-notes-app\package.json`
+npm error errno -4058`
+npm error enoent Could not read package.json: Error: ENOENT: no such file or directory, open 'C:\Users\Lenovo\Desktop\Notes App (Google Keep clone)\test-notes-app\package.json'`
+npm error enoent This is related to npm not being able to find a file.`
+npm error enoent`
+npm error A complete log of this run can be found in: C:\Users\Lenovo\AppData\Local\npm-cache\_logs\2025-06-23T18_23_25_991Z-debug-0.log`
+PS C:\Users\Lenovo\Desktop\Notes App (Google Keep clone)\test-notes-app> npm install
+npm install
+npm start
+npm install react-scripts`
+
+npm start
+cd "C:\Users\Lenovo\Desktop\Notes App (Google Keep clone)\test-notes-app"`
+
+npm start
+cd test-notes-app`
+npm start
+cd "test-notes-app"
+dir
+cd "C:\Users\Lenovo\Desktop\Notes App (Google Keep clone)"
+cd "test-notes-app"
+npm install`
+npm start`
+
+npm install
+npm start
+cd test-notes-app`
+npm start
+PS C:\Users\Lenovo\Desktop\Notes App (Google Keep clone)\test-notes-app>`
+
+cd "C:\Users\Lenovo\Desktop\Notes App (Google Keep clone)\test-notes-app"`
+
+npm start
+npm install
+cd "test-notes-app"`
+
+npx create-react-app auth-dashboard`
+cd auth-dashboard`
+
+npm install react-router-dom firebase`
+
+npm install -D tailwindcss postcss autoprefixer`
+npx tailwindcss init -p`
+
+added 14 packages, and audited 108 packages in 5s`
+`
+10 packages are looking for funding`
+  run `npm fund` for details`
+`
+found 0 vulnerabilities`
+npm error could not determine executable to run`
+npm error A complete log of this run can be found in: C:\Users\Lenovo\AppData\Local\npm-cache\_logs\2025-06-24T10_37_01_090Z-debug-0.log
+npm install -D tailwindcss postcss autoprefixer`
+npx tailwindcss init -p`
+
+npm install firebase`
+
+npm install react-router-dom`
+
+npm start
+npm install react-scripts`
+
+npm install`
+npm start`
+
+npm init -y`
+
+npm start`
+
+npm start
+npm install react-scripts`
+
+npm start
+cd auth-dashboard`
+
+dir`
+
+npm start
+npm install firebase
+npm start
+npm install react-router-dom`
+
+npm install firebase`
+
+npm start`
+
+rm -rf node_modules`
+rm -rf package-lock.json`
+npm install`
+npm start`
+
+npm run
+npm start
+cd "C:\Users\Lenovo\Desktop\Auth-Based UserAdmin Dashboard"`
+
+rm -rf node_modules`
+del package-lock.json
+rm -rf node_modules`
+
+del package-lock.json
+cd "C:\Users\Lenovo\Desktop\Auth-Based UserAdmin Dashboard"
+rmdir /s /q node_modules
+Remove-Item -Recurse -Force .\node_modules
+rmdir /s /q node_modules
+npm cache clean --force`
+
+Remove-Item -Recurse -Force .\node_modules`
+
+npm start
+npm install react-scripts`
+
+npm start
+cd auth-dashboard`
+
+dir`
+
+npm start
+rd /s /q node_modules
+del package-lock.json
+rd /s /q node_modules`
+del package-lock.json`
+
+npm install react@18.2.0 react-dom@18.2.0 react-scripts@5.0.1`
+npm install react-router-dom@6.23.0 firebase@9`
+
+cd auth-dashboard
+Remove-Item -Recurse -Force node_modules
+Remove-Item -Force package-lock.json
+clear
+cd "C:\Users\Lenovo\Desktop\Auth-Based UserAdmin Dashboard\auth-dashboard"
+pwd          # present working directory காட்டும்
+dir          # (அல்லது) Get-ChildItem  -> files/folders list
+Remove-Item -Recurse -Force node_modules
+Remove-Item -Force package-lock.json
+npm cache clean --force
+npm install react@18.2.0 react-dom@18.2.0 react-scripts@5.0.1
+npm install react-router-dom@6.23.0 firebase@9
+npm start
+export 'getAnalytics' was not found in 'firebase/analytics'`
+
+npm start
+cd "C:\Users\Lenovo\Desktop\Auth-Based UserAdmin Dashboard\auth-dashboard"
+dir
+npm star
+npm start
+cd "C:\Users\Lenovo\Desktop\Auth-Based UserAdmin Dashboard\auth-dashboard"
+dir
+npm start
+cd "C:\Users\Lenovo\Desktop\Auth-Based UserAdmin Dashboard\auth-dashboard"
+npm start
+mkdir fullstack-auth-dashboard`
+cd fullstack-auth-dashboard`
+
+npm create vite@latest client`
+
+cd client`
+npm install`
+
+npm install -D tailwindcss postcss autoprefixer`
+npx tailwindcss init -p`
+
+npm install react-router-dom axios`
+
+npm install firebase`
+
+npm run dev`
+
+cd ..`
+mkdir server`
+cd server`
+
+cd fullstack-auth-dashboard`
+mkdir server`
+cd server`
+npm init -y`
+
+cd "C:\Users\Lenovo\Desktop\fullstack-auth-dashboard"
+cd "C:\Users\Lenovo\Desktop\React Projects\fullstack-auth-dashboard"
+cd ..
+mkdir server
+cd server
+C:\Users\Lenovo\Desktop\fullstack-auth-dashboard\server`
+
+cd ..`
+mkdir server`
+cd server`
+
+clear
+node server.js`
+
+ node server.js`
+
+node server.js`
+
+cd "$HOME\Desktop\fullstack-auth-dashboard\server"
+cd "$HOME\Desktop\fullstack-auth-dashboard"
+clear
+Get-Location       # shows where you are now
+dir                # shows what’s inside the current folder
+clear
+cd "$HOME\Desktop\fullstack-auth-dashboard"
+npm init -y`
+
+node server.js`
+
+cd "C:\Users\Lenovo\Desktop\AD Full stack\server"
+node server\server.js 
+ node server\server.js 
+cd "$HOME\Desktop\fullstack-auth-dashboard"`
+
+clear
+cd "$HOME\Desktop\fullstack-auth-dashboard"
+ls "$HOME\Desktop\fullstack-auth-dashboard"
+ls "C:\Users\Lenovo\Desktop\AD Full stack"
+clear
+cd "$HOME\Desktop\AD Full stack"
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack"
+cd client
+npm install
+clear
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+cd client`
+npm install`
+npm run dev
+cd client
+npm install
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+npm run dev
+cd 
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+npm start
+rm -rf node_modules`
+rm package-lock.json`
+npm install`
+npm run dev
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+npm run dev
+cd client
+npm run dev
+npm install -D tailwindcss postcss autoprefixer`
+npx tailwindcss init -p`
+
+npx tailwindcss init -p`
+
+npx --yes tailwindcss init -p`
+
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+cd client`
+npx tailwindcss init -p`
+
+npm run dev
+cd client`
+npm uninstall tailwindcss`
+
+npm install -D tailwindcss@latest @tailwindcss/postcss@latest postcss autoprefixer`
+
+npm run dev
+cd client`
+npm install -D tailwindcss@latest @tailwindcss/postcss@latest postcss autoprefixer`
+
+cd C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard\client`
+
+npm install -D tailwindcss@latest @tailwindcss/postcss@latest postcss autoprefixer`
+
+npm run dev`
+
+npm install -D tailwindcss-animate`
+
+npm run dev
+npm install -D tailwindcss@latest @tailwindcss/postcss@latest postcss autoprefixer`
+
+npm run dev
+npm install -D tailwindcss-animate`
+
+npm install framer-motion`
+
+npm run dev
+rm -rf node_modules package-lock.json`
+npm install`
+npm install -D tailwindcss postcss autoprefixer`
+npx tailwindcss init -p`
+
+npm run dev
+npm install -D tailwindcss postcss autoprefixer`
+npx tailwindcss init -p`
+
+rm -rf node_modules package-lock.json`
+npm install`
+
+npm run dev
+npm uninstall tailwindcss postcss autoprefixer`
+
+npm install -D tailwindcss@^3.4.1 postcss autoprefixer`
+npx tailwindcss init -p`
+
+ npm install -D tailwindcss@^3.4.1 postcss autoprefixer`
+>> npx tailwindcss init -p
+npm run dev`
+
+npm install lucide-react`
+
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+cd client
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+cd server
+node server.js`
+
+cd client
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+npm install axios`
+
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+cd client
+npm ru dev
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+cd client
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+cd client
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+cd client
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+cd client
+npm install axios
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+cd client
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+cd client
+npm run dev`
+
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+cd client
+npm run dev
+q
+cd C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard
+cd 'C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard'
+cd client
+npm run dev
+cd 'C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard\client'
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+cd server`
+npm install        # Only once (if not done already)`
+npm run dev        # Starts backend on http://localhost:5000`
+
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+cd server`
+
+npm install
+cd server`
+
+clear
+npm init -y`
+
+npm run dev
+npm install nodemon`
+
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+cd server
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+cd server
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+cd server
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+cd client
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+cd server
+npm install`
+
+npm run dev`
+
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+cd server
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+cd client
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+cd server
+npm install --save-dev nodemon`
+
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+cd server
+npm install mongodb
+npm run dev
+cd server`
+
+clear
+npm run dev
+cd Desktop`
+
+https://github.com/adrianhajdin/project_3D_developer_portfolio.git
+cd desktop
+clear
+cd Desktop
+https://github.com/adrianhajdin/project_3D_developer_portfolio.git : The term 
+'https://github.com/adrianhajdin/project_3D_developer_portfolio.git' is not recognized as the name of a cmdlet, `
+function, script file, or operable program. Check the spelling of the name, or if a path was included, verify 
+that the path is correct and try again.
+At line:1 char:1
++ https://github.com/adrianhajdin/project_3D_developer_portfolio.git
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (https://github....r_portfolio.git:String) [], CommandNotFoundExcep  
+   tion
+clear
+git clone https://github.com/adrianhajdin/project_3D_developer_portfolio.git
+clear
+git clone https://github.com/adrianhajdin/project_3D_developer_portfolio.git`
+
+cd project_3D_developer_portfolio`
+
+code .`
+
+npm run dev`
+
+npm install vite --save-dev`
+
+npm install --legacy-peer-deps`
+
+npm run dev`
+
+npm run dev
+cd client
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard\client"
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard\server"
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard\server"
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard\server"
+npm run dev
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard\server"
+rm -rf node_modules package-lock.json`
+
+cd server`
+npm run dev`
+
+npm run dev
+npm run dev
+cd 'C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard\client'
+npm run dev
+cd 'C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard\server'
+cd server`
+npm install google-auth-library`
+
+npm run dev
+cd 'C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard\server'
+npm run dev
+cd   'C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard\server'
+npm run dev
+cd 'C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard\server'
+npm uninstall google-auth-library`
+
+npm install google-auth-library@9`
+
+npm run dev
+cd 'C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard\server'
+npm install google-auth-library@latest`
+
+npm uninstall google-auth-library`
+npm install google-auth-library@9`
+
+npm run dev
+cd Desktop`
+
+https://github.com/adrianhajdin/project_3D_developer_portfolio.git
+cd desktop
+clear
+cd Desktop`
+
+git clone https://github.com/adrianhajdin/project_3D_developer_portfolio.git
+cd Desktop`
+
+git clone https://github.com/adrianhajdin/project_3D_developer_portfolio.git
+code .`
+
+mv project_3D_developer_portfolio my_3D_portfolio`
+cd my_3D_portfolio`
+code .`
+
+npm run dev
+cd 'C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard\client'
+npm run dev
+cd 'C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard\server'
+npm run dev
+cd 'C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard\server'
+npm run dev`
+
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/ilamanikandan/auth-dashboard.git
+git branch -M main
+git push -u origin main
+ git push -u origin main
+cd "C:\Users\Lenovo\Desktop\AD Full stack\fullstack-auth-dashboard"
+git init
+git add .
+git commit -m "Initial fullstack auth dashboard project"
+git push -u origin main
+gh auth login
+src/components/Hero.jsx`
+
+npm run dev
+npm install
+clear
+npm install
+npm install --legacy-peer-deps`
+
+npm run dev
+npm run
+npm run dev
+clear
+npx create-react app react
+clear
+npx create-react app
+clear
+npx create-react-app
+clear
+npx create-react-app react
+clear
+npx create-react-app-React
+clear
+npm run dev
+npm install
+npm install --legacy-peer-deps`
+
+npm run dev
+cd C:\Users\Lenovo\Desktop\REACT\index.html
+clear
+cd C:\Users\Lenovo\Desktop\REACT>
+clear
+npx create-react-app react-tutorial
+npm start
+npm start
+cd "C:\Users\Lenovo\Desktop\REACT\react-tutorial"
+npm dev start
+clear
+npm start dev
+clear
+npm run dev`
+
+npm run dev
+npm start
+clear
+npm run dev
+npm install @react-three/drei`
+
+npm install -g gltf-pipeline`
+
+gltf-pipeline -i scene.gltf -o fixed_scene.gltf --removeUnusedVertices`
+
+cd C:\Users\Lenovo\Desktop\my_3D_portfolio\scene.gltf
+clear
+cd C:\Users\Lenovo\Desktop\my_3D_portfolio\scene.gltf>
+clear
+cd C:\Users\Lenovo\Desktop\my_3D_portfolio\scene.gltf`
+
+clear
+gltf-pipeline -i scene.gltf -o fixed_scene.gltf --removeUnusedVertices`
+
+npm run dev
+gltf-pipeline -i scene.gltf -o fixed_scene.gltf --removeUnusedVertices`
+
+cd C:/src/components/canvas/Earth.jsx>
+cd C:\Users\Lenovo\Desktop\my_3D_portfolio\src\components\canvas\Earth.jsx>
+cd C:\Users\Lenovo\Desktop\my_3D_portfolio\src\components\canvas\Earth.jsx
+cd cd C:\Users\Lenovo\Desktop\planet-model
+const earth = useGLTF("./planet/fixed_scene.gltf");`
+
+clear
+npm install emailjs-com`
+
+clear
+cd my_3D_portfolio
+npm install emailjs-com`
+
+clear
+npm install --legacy-peer-deps`
+
+npm install three@^0.159.0`
+
+clear
+npm uninstall react-tilt`
+npm install react-parallax-tilt`
+
+rm -rf node_modules package-lock.json`
+npm install`
+
+npm run dev
+npm install react-tilt`
+
+npm run dev
+npm install react-tilt`
+
+npm run dev
+npm install react-tilt`
+
+npm run dev
+NPM RUN DEV
+npm run dev
+npm star
+clear
+npm run dev
+mkdir freelancer-connect && cd freelancer-connect`
+
+clear
+cd freelancer-connect
+mkdir freelancer-connect && cd freelancer-connect`
+
+clear
+mkdir freelancer-connect
+clear
+cd freelancer-connect
+cd server
+clear
+mkdir server
+mkdir controllers models routes middleware config`
+touch index.js
+npx create-react-app client
+  npm run build
+cd client`
+npm install axios react-router-dom socket.io-client`
+npm install -D tailwindcss postcss autoprefixer`
+npx tailwindcss init -p`
+
+touch setup.js`
+
+node setup.js`
+
+npm install
+npx create-react-app client
+npm run dev
+npm install three-stdlib`
+
+npm run dev
+git clone git@github.com:adrianhajdin/project_3D_developer_portfolio.git`
+cd project_3D_developer_portfolio`
+
+git init`
+
+git add .`
+
+git config --global core.autocrlf true`
+
+git add .`
+
+git commit -m "Initial commit"`
+
+git remote add origin https:https://github.com/ilamanikandan/My-portfolio.git
+git init`
+
+git add .`
+
+git commit -m "Initial commit"`
+
+git remote add origin https:https://github.com/ilamanikandan/My-portfolio.git
+git push -u origin main
+git remote -v`
+
+git init`
+
+git add .`
+
+git commit -am "Initial commit"
+git remote add origin https:https://github.com/ilamanikandan/My-3D-Portfolio.git
+git remote -v`
+
+git remote set-url origin https://github.com/ilamanikandan/My-3D-Portfolio.git
+git push origin master
+git push -u origin main
+du -sh .`
+
+git count-objects -vH`
+
+git rm -r --cached node_modules
+git lfs install
+git lfs track "*.gltf"
+git add .gitattributes
+git add .
+git commit -m "track large files with Git LFS"
+git push origin main
+git fetch origin`
+
+git pull --rebase origin main`
+
+npm run dev
+git checkout -- src/`
+git checkout -- public/`
+
+git rebase --abort`
+
+cp .gitignore ../gitignore-backup`
+
+git clean -fd`
+
+git reset --hard 81398b4`
+
+git push origin main --force`
+
+git log --oneline`
+
+git checkout <commit-id> -- src`
+git checkout <commit-id> -- public`
+
+git checkout a7d3f92 -- src
+git log --oneline --graph --decorate -n 10`
+
+git checkout 4b7e123 -- src`
+git checkout 4b7e123 -- public`
+
+git log --oneline -n 15`
+
+git checkout <good-commit-id> -- src`
+git checkout <good-commit-id> -- public`
+
+git log --oneline
+git log --oneline -n 5`
+
+npm run dev
+cd C:\Users\Lenovo\Desktop\my_3D_portfolio
+git lfs install
+git lfs track "my_3D_portfolio"
+git lfs push --all origin main
+git add .
+git commit -m "my_3D_portfolio to github"
+npm run dev
+git init
+git add .
+git commit-am "Portfolio"
+git commit-m "portfolio"
+git commit -m "Initial commit"`
+
+git remote add origin https://github.com/ilamanikandan/my_3D_portfolio.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/ilamanikandan/My-Portfolio.git
+git init`
+
+git add .`
+
+git commit -m "Initial commit"`
+
+git remote add origin https://github.com/ilamanikandan/My-Portfolio.git
+git branch -M main
+git push -u origin main
+npm run build`
+
+npm list three three-mesh-bvh @react-three/drei`
+
+clear
+npm list three three-mesh-bvh @react-three/drei`
+
+rm -rf node_modules package-lock.json`
+
+npm run dev
+git init
+git add .
+git commit -m "first commit"`
+git branch -M main`
+git remote add origin https://github.com/ilamanikandan/My_3D_Portfolio.git`
+git push -u origin main
+cd C:\Users\Lenovo\train.js
+cd  
+C:\Users\Lenovo\train.js
+cd C:\Users\Lenovo\train.js
+node -v
+node C:\Users\Lenovo\Desktop\REACT\react-tutorial\src\components\prac.js 
+python -m pip install --upgrade pip
+pip install yfinance
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python313\stockdb.py
+& C:/Users/Lenovo/AppData/Local/Programs/Python/Python313/python.exe c:/Users/Lenovo/AppData/Local/Programs/Python/Python313/stockdb.py
+pip install yfinance
+python -m venv C:\Users\Lenovo\Desktop\stockproject\venv
+C:\Users\Lenovo\Desktop\stockproject\venv\Scripts\activate.ps1
+pip install pandas
+pip install numpy
+& C:/Users/Lenovo/AppData/Local/Programs/Python/Python313/python.exe c:/Users/Lenovo/Desktop/stockproject/main.py
+C:/Users/Lenovo/AppData/Local/Programs/Python/Python313/python.exe -m pip install pandas`
+
+python.exe -m pip install --upgrade pip
+C:/Users/Lenovo/AppData/Local/Programs/Python/Python313/python.exe -m pip install --upgrade pip`
+C:/Users/Lenovo/AppData/Local/Programs/Python/Python313/python.exe -m pip install pandas`
+
+& C:/Users/Lenovo/AppData/Local/Programs/Python/Python313/python.exe c:/Users/Lenovo/Desktop/stockproject/main.py`
+
+& C:/Users/Lenovo/AppData/Local/Programs/Python/Python313/python.exe c:/Users/Lenovo/Desktop/stockproject/main.py
+C:/Users/Lenovo/AppData/Local/Programs/Python/Python313/python.exe -m pip install pandas`
+
+C:/Users/Lenovo/AppData/Local/Programs/Python/Python313/python.exe -m ensurepip --upgrade`
+C:/Users/Lenovo/AppData/Local/Programs/Python/Python313/python.exe -m pip install --upgrade pip`
+
+C:/Users/Lenovo/AppData/Local/Programs/Python/Python313/python.exe -m pip install pandas`
+
+C:/Users/Lenovo/AppData/Local/Programs/Python/Python313/python.exe -m pip show pandas`
+
+& C:/Users/Lenovo/AppData/Local/Programs/Python/Python313/python.exe c:/Users/Lenovo/Desktop/stockproject/main.py`
+
+& C:/Users/Lenovo/AppData/Local/Programs/Python/Python313/python.exe c:/Users/Lenovo/Desktop/stockproject/main.py
+C:/Users/Lenovo/AppData/Local/Programs/Python/Python313/python.exe -m pip install pandas numpy yfinance sqlalchemy psycopg2 matplotlib requests`
+
+C:/Users/Lenovo/AppData/Local/Programs/Python/Python313/python.exe -m pip list`
+
+& C:/Users/Lenovo/AppData/Local/Programs/Python/Python313/python.exe c:/Users/Lenovo/Desktop/stockproject/main.py
+pip install  mysql.connector
+pip install schedule, time
+pip install schedule`
+
+C:/Users/Lenovo/AppData/Local/Programs/Python/Python313/python.exe -m pip install schedule`
+
+python -m pip show schedule`
+
+python c:/Users/Lenovo/Desktop/stockproject/main.py`
+
+python c:/Users/Lenovo/Desktop/stockproject/main.py`
+
+pip install pymysql`
+
+& C:/Users/Lenovo/AppData/Local/Programs/Python/Python313/python.exe c:/Users/Lenovo/Desktop/stockproject/main.py
+npx create-next-app@latest chat-frontend`
+cd chat-frontend`
+
+npm i bcrypt nodemailer uuid mysql2`
+
+cd chat-frontend`
+npm run dev`
+
+npm install next react react-dom`
+
+npm run dev`
+
+npm run dev
+rm -rf .next`
+npm run dev`
+
+rm -rf .next
+m -rf .next
+rmdir /s /q .next`
+
+Remove-Item -Recurse -Force .next`
+
+C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend
+cd "C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend"`
+
+Remove-Item -Recurse -Force .next`
+
+npm run dev`
+
+Remove-Item -Recurse -Force .next`
+npm run dev`
+
+npm run dev
+Remove-Item -Recurse -Force .next`
+
+npm run dev
+npm install --save-dev prettier`
+
+rm -rf node_modules package-lock.json`
+npm install`
+
+rmdir node_modules -Recurse -Force`
+del package-lock.json`
+
+npm install`
+
+npm run format`
+
+.next`
+node_modules`
+
+explorer node_modules`
+
+dir node_modules`
+
+Remove-Item -Recurse -Force node_modules`
+
+Test-Path node_modules`
+
+npm run dev`
+
+npm run build`
+npm run start`
+
+npm list next`
+
+npm install next@15 react@18 react-dom@18`
+
+npm run dev`
+
+npm install next@15 react@18 react-dom@18`
+
+npm run dev`
+
+mkdir app`
+cd app`
+echo "export default function Page() { return (<h1>Welcome to Chat App</h1>) }" > page.jsx`
+
+npm run dev`
+
+npm run dev
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend\app`
+mkdir api`
+cd api`
+mkdir register`
+mkdir activate`
+
+move ..\register.js register\route.js`
+move ..\activate.js activate\route.js`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend\app\api\register`
+echo. > route.js`
+`
+cd ..\activate`
+echo. > route.js`
+
+New-Item "C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend\app\api\register\route.js" -ItemType File`
+New-Item "C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend\app\api\activate\route.js" -ItemType File`
+
+npm run dev
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend\app`
+`
+mkdir api`
+cd api`
+mkdir register`
+mkdir activate`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend\app\api`
+dir`
+
+cd register`
+dir`
+
+notepad route.js`
+
+cd ..\activate
+notepad route.js
+npm run dev
+mysql -u root -p`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+npm run dev`
+
+DB_HOST=localhost`
+DB_USER=root`
+DB_PASS=pass123`
+DB_NAME=chat_app`
+`
+EMAIL_USER=kishorekumarr2k4@gmail.com`
+EMAIL_PASS=1234567`
+`
+NEXT_PUBLIC_BASE_URL=http://localhost:3000`
+
+npm run dev
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+
+node`
+
+npm run dev
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+
+dir`
+
+npm install dotenv`
+
+node -r dotenv/config -e "console.log('ENV CHECK:', {host: process.env.DB_HOST, user: process.env.DB_USER, pass: process.env.DB_PASS, db: process.env.DB_NAME, email: process.env.EMAIL_USER});" dotenv_config_path=.env.local`
+
+dir .env.local`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+
+ni .env.local`
+
+notepad .env.local`
+
+node -r dotenv/config -e "console.log('ENV CHECK:', {host: process.env.DB_HOST, user: process.env.DB_USER, pass: process.env.DB_PASS, db: process.env.DB_NAME, email: process.env.EMAIL_USER});" dotenv_config_path=./.env.local
+npm run dev
+mysql -u root -p`
+
+C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql.exe`
+
+& "C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql.exe" -u root -p`
+
+npm run dev
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+
+notepad .\app\api\register\route.js`
+
+npm run dev
+npm run dev
+& "C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql.exe" -u root -p chat_app -e "SELECT * FROM users;"`
+
+npm run dev
+notepad app\api\register\route.js`
+
+npm run dev
+mysql -u root -p`
+
+npm run dev
+npm run dev
+code .`
+
+app/api/register/route.js`
+
+npm run dev
+chat-frontend/lib/db.js`
+
+npm run dev
+chat-frontend/app/api/register/route.js
+npm run dev
+npm install bcryptjs`
+
+app/api/login/route.js
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+`
+mkdir app\api\login`
+echo. > app\api\login\route.js`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+`
+mkdir app\api\login -Force`
+New-Item app\api\login\route.js -ItemType File -Force`
+
+app/api/login/route.js`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend
+mkdir app\login -Force
+New-Item app\login\page.js -ItemType File -Force
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+mkdir app\login -Force`
+New-Item app\login\page.js -ItemType File -Force`
+
+app/login/page.js`
+
+npm run dev
+npm run dev`
+`
+
+Starting...`
+ ✓ Ready in 13.8s`
+ ○ Compiling /register ...`
+ ✓ Compiled /register in 4.3s (526 modules)`
+ GET /register 200 in 6852ms`
+ ○ Compiling /api/register ...`
+ ✓ Compiled /api/register in 3.7s (665 modules)`
+ POST /api/register 400 in 3469ms`
+ POST /api/register 400 in 5673ms`
+ POST /api/register 201 in 353ms`
+ GET /register 200 in 841ms`
+ P
+npm run dev`
+`
+
+C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend\lib\db.js`
+
+npm run dev`
+`
+
+C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+mkdir lib`
+New-Item lib\db.js -ItemType File`
+
+C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend\lib\db.js`
+
+C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend\.env.local
+C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend\.env.local`
+
+npm run dev`
+`
+
+C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend\lib\db.js`
+
+npm run dev`
+`
+
+import { db } from "../../../lib/db.js";`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend\app\api\login`
+
+notepad route.js`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend
+npm run dev
+notepad C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend\lib\db.js`
+
+npm run dev
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+npm install @prisma/client`
+
+npx prisma init`
+
+npx prisma generate`
+
+npx prisma db push`
+
+datasource db {`
+  provider = "mysql"`
+  url      = env("DATABASE_URL")`
+}`
+
+C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend\prisma\schema.prisma`
+
+npx prisma migrate dev --name init`
+
+C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend\.env`
+
+mysql -u root -p`
+
+C:\Program Files\MySQL\MySQL Server 8.0\bin`
+
+setx PATH "%PATH%;C:\Program Files\MySQL\MySQL Server 8.0\bin"`
+
+mysql -u root -p`
+
+C:\Program Files\MySQL\MySQL Server 8.0\bin`
+
+[Environment]::SetEnvironmentVariable(`
+  "Path",`
+  $env:Path + ";C:\Program Files\MySQL\MySQL Server 8.0\bin",`
+  "User"`
+)`
+
+$env:Path`
+
+mysql --version`
+
+Get-ChildItem "C:\Program Files\MySQL\MySQL Server 8.0\bin" | Where-Object Name -like "mysql.exe"`
+
+[Environment]::SetEnvironmentVariable(`
+  "Path",`
+  $env:Path + ";C:\Program Files\MySQL\MySQL Server 8.0\bin",`
+  "User"`
+)`
+
+mysql --version`
+
+setx PATH "$($env:PATH);C:\Program Files\MySQL\MySQL Server 8.0\bin"`
+
+mysql --version`
+
+npm start dev
+& C:/Users/Lenovo/AppData/Local/Programs/Python/Python313/python.exe c:/Users/Lenovo/Desktop/stockproject/main.py
+C:\xampp\htdocs\ceo_images`
+
+& C:/Users/Lenovo/AppData/Local/Programs/Python/Python313/python.exe c:/Users/Lenovo/Desktop/stockproject/main.py
+npm run dev
+dir`
+
+cd chat-frontend`
+
+npm run dev`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+
+mkdir lib`
+
+cd lib`
+
+echo. > db.js`
+
+New-Item db.js -ItemType File`
+
+code db.js`
+code db.js`
+
+cd ..`
+
+npm run dev`
+
+mysql -u root -p`
+
+npm run dev`
+
+mysql -u root -p`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+npm run dev`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+npm install bcrypt`
+
+code app\api\register\route.js`
+
+code app\api\login\route.js`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+npm run dev`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend
+code app\api\register\route.js`
+
+code app\api\login\route.js`
+
+npm run dev`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend\app\api`
+dir`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+
+code app\login\page.js`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+
+code app\login\page.js`
+
+npm run dev`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend\app
+mkdir chat
+cd chat
+New-Item page.js -ItemType File
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+npm run dev`
+
+chat-frontend/app/chat/page.js
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend\app\chat`
+
+New-Item page.js -ItemType File`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend\app\chat`
+
+New-Item page.js -ItemType File`
+
+code page.js`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+npm run dev`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+
+npm install socket.io socket.io-client`
+
+New-Item server.js -ItemType File`
+code server.js`
+
+const { createServer } = require("http");`
+const { Server } = require("socket.io");`
+`
+const httpServer = createServer();`
+const io = new Server(httpServer, {`
+  cors: { origin: "*" },`
+});`
+`
+io.on("connection", (socket) => {`
+  console.log("User connected:", socket.id);`
+`
+  socket.on("send-message", (msg) => {`
+    io.emit("receive-message", msg); // broadcast to all users`
+  });`
+`
+  socket.on("disconnect", () => {`
+    console.log("User disconnected:", socket.id);`
+  });`
+});`
+`
+httpServer.listen(3001, () => {`
+  console.log("Socket.io server running on port 3001");`
+});`
+
+code app\chat\page.js`
+
+node server.js`
+
+npm run dev`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+node server.js`
+
+code server.js`
+
+C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend\server.js`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+
+node server.js`
+
+npm run dev`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+
+# Create server.js (overwrite if exists)`
+Set-Content -Path server.js -Value @"`
+const { createServer } = require("http");`
+const { Server } = require("socket.io");`
+`
+const httpServer = createServer();`
+const io = new Server(httpServer, {`
+  cors: { origin: "*" },`
+});`
+`
+io.on("connection", (socket) => {`
+  console.log("User connected:", socket.id);`
+`
+  socket.on("send-message", (msg) => {`
+    io.emit("receive-message", msg);`
+  });`
+`
+  socket.on("disconnect", () => {`
+    console.log("User disconnected:", socket.id);`
+  });`
+});`
+`
+httpServer.listen(3001, () => {`
+  console.log("Socket.io server running on port 3001");`
+});`
+"@`
+
+npm install socket.io socket.io-client`
+
+node server.js`
+
+npm run dev`
+
+node server.js`
+
+npm run dev`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+
+node server.js`
+
+npm run dev`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend`
+
+npm run dev`
+
+cd C:\Users\Lenovo\Desktop\CHATBOXPROJECT\chat-frontend
+Move-Item -Force lib app\lib`
+
+Move-Item -Force lib app\lib`
+
+node server.js`
+
+npm run dev`
+
+npm run dev`
+
+# Update login API to use relative path
+# Update register API to use relative path
+npm run dev`
+
+npm run dev`
+
+# Fix login API
+# Fix register API
+npm run dev`
+
+npm run dev`
+
+code .
+cd apps
+cd web-portal
+tree -I 'node_modules|.git|dist|build'
+cd src
+tree -I 'node_modules|.git|dist|build'
+clear
+cd apps
+cd web-portal
+npm install
+tree -I 'node_modules|.git|dist|build'
+cd frontend
+cd web-portal
+clear
+cd apps
+cd web-portak
+clear
+cd web-portal
+mkdir -p src/pages/admin/{buses,routes,bookings,manage-users,dashboard} \
+src/components/admin/{buses,routes,bookings,users,layout,charts,common} \
+src/hooks/rq/queries/{buses,routes,bookings,users} \
+src/hooks/mutations/{buses,routes,bookings,users} \
+src/services/api/admin \
+src/services/constants \
+src/types/admin \
+src/utils/admin \
+src/utils/formatters \
+src/utils/validators
+clear
+mkdir -p src/pages/admin/{buses,routes,bookings,manage-users,dashboard} \
+cd apps
+cd web-portal
+tree -I 'node_modules|.git|dist|build'
+npm install @tanstack/react-table
+clear
+npm install --save-dev @types/react @types/react-dom
+clear
+cd apps
+cd web-porta
+clear
+cd web-portal
+npm install --save-dev @types/react @types/react-dom
+clear
+cd apps
+cd web-portal
+npm install
+clear
+npm install
+npm install @tanstack/react-table
+npm install --save-dev @types/react @types/react-dom
+clear
+pip install npm
+python.exe -m pip install --upgrade pip
+npm run dev
+npm install vite --save-dev
+npm run dev
+pip install npm
+npm run dev
+npm install vite --save-dev
+npm run dev
+package.json
+vite.config.js
+src/
+public/
+node -v
+npm -v
+npm run dev
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard"
+npm install
+npm run dev
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard"
+npm install
+npm run dev
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard"`
+npm install`
+npm run dev`
+
+rmdir /s /q node_modules`
+del package-lock.json`
+npm install`
+npm install vite --save-dev`
+npm run dev`
+
+Remove-Item -Recurse -Force node_modules`
+
+taskkill /F /IM node.exe`
+
+Remove-Item -Recurse -Force node_modules`
+
+rmdir /s /q node_modules`
+
+cd path\to\backend`
+python app.py`
+
+cd path\to\backend`
+python -m venv venv`
+venv\Scripts\activate`
+pip install -r requirements.txt`
+python app.py`
+
+cd backend`
+python -m venv venv`
+venv\Scripts\activate`
+pip install -r requirements.txt`
+python app.py`
+
+python app.py`
+
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard"`
+mkdir backend`
+cd backend`
+
+flask`
+flask-cors`
+pymysql`
+
+pip install flask flask-cors pymysql`
+
+pip list`
+
+python app.py`
+
+npm run dev`
+
+python app.py`
+
+dir "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard"`
+
+deactivate`
+
+C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard`
+
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard"`
+
+deactivate`
+
+npm install`
+
+npm run dev`
+
+smart-supermarket-analytics-dashboard/services/geminiService.ts`
+
+C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard`
+
+npm install`
+npm run dev`
+
+mkdir supermarket-analytics`
+cd supermarket-analytics
+npm create vite@latest . -- --template react-ts
+mkdir -p src/components/icons src/services
+mkdir supermarket-analytics`
+cd supermarket-analytics
+mkdir -p src/components/icons src/services
+C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard`
+
+smart-supermarket-analytics-dashboard/services/geminiService.ts`
+
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard"`
+
+npm install`
+
+npm run dev`
+
+npm run dev -- --host`
+
+npm run dev`
+
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard"`
+mkdir backend`
+cd backend`
+
+python -m venv venv_backend`
+.\venv_backend\Scripts\Activate.ps1`
+
+pip install twilio python-dotenv pandas`
+
+@"`
+Name,Phone,TotalSpending,Segment`
+Arjun,+919876543210,12500,Premium`
+Priya,+919876500012,4600,Regular`
+Ramesh,+919123456789,2200,Normal`
+"@ > customers.csv`
+
+python sms_service.py customers.csv`
+
+npm run dev`
+
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\backend"`
+.\venv_backend\Scripts\Activate.ps1`
+python sms_service.py`
+
+.\venv_backend\Scripts\Activate.ps1`
+pip install twilio`
+
+python.exe -m pip install --upgrade pip
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\backend"`
+.\venv_backend\Scripts\Activate.ps1`
+python sms_service.py`
+
+npm run dev`
+
+(venv_backend) PS> python`
+
+python`
+
+python
+python - <<EOF`
+from twilio.rest import Client`
+client = Client("AC4a4cc6e81e86f7a6cdbce9ef0f10f5a5", "a92f0d40109265f5b8d4638b8f1298e5")`
+print(client.api.account.fetch())`
+EOF`
+
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\backend"`
+
+python -c "from twilio.rest import Client; client = Client('AC4a4cc6e81e86f7a6cdbce9ef0f10f5a5', 'a92f0d40109265f5b8d4638b8f1298e5'); print(client.api.account.fetch())"`
+
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\backend"`
+.\venv_backend\Scripts\activate`
+
+python sms_service.py customers.csv`
+
+Get-Content sms_service.py | Set-Content -Encoding UTF8 sms_service.py`
+
+taskkill /IM python.exe /F`
+
+Get-Content sms_service.py | Set-Content -Encoding UTF8 sms_service.py`
+
+handle sms_service.py`
+
+Copy-Item sms_service.py sms_service_backup.py`
+Get-Content sms_service_backup.py | Set-Content -Encoding UTF8 sms_service_fixed.py`
+python sms_service_fixed.py customers.csv`
+
+Rename-Item .env .env_old`
+
+notepad .env`
+notepad .env`
+
+notepad .env`
+
+python sms_service_fixed.py customers.csv
+Get-Content .env | Set-Content -Encoding UTF8 .env`
+
+Get-Content sms_service_fixed.py | Set-Content -Encoding UTF8 sms_service_fixed.py`
+
+tasklist | findstr python`
+
+Get-Content .env | Set-Content -Encoding UTF8 .env`
+Get-Content sms_service_fixed.py | Set-Content -Encoding UTF8 sms_service_fixed.py`
+
+handle ".env"`
+
+taskkill /IM Code.exe /F`
+
+Get-Content .env | Set-Content -Encoding UTF8 .env`
+Get-Content sms_service_fixed.py | Set-Content -Encoding UTF8 sms_service_fixed.py`
+
+C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard>`
+
+C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\backend`
+
+cd C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\backend`
+
+Get-Content .env | Set-Content -Encoding UTF8 .env`
+Get-Content sms_service_fixed.py | Set-Content -Encoding UTF8 sms_service_fixed.py`
+
+tasklist | findstr python`
+
+Get-Content .env | Set-Content -Encoding UTF8 .env`
+Get-Content sms_service_fixed.py | Set-Content -Encoding UTF8 sms_service_fixed.py`
+
+Copy-Item .env .env_backup`
+Copy-Item sms_service_fixed.py sms_service_backup.py`
+
+Move-Item -Force .env_fixed .env`
+Move-Item -Force sms_service_fixed2.py sms_service_fixed.py`
+
+Get-Content .env_backup | Out-File -Encoding utf8 .env_fixed`
+Get-Content sms_service_backup.py | Out-File -Encoding utf8 sms_service_fixed2.py`
+
+Move-Item -Force .env_fixed .env`
+Move-Item -Force sms_service_fixed2.py sms_service_fixed.py`
+
+python sms_service_fixed.py customers.csv`
+
+pip install twilio python-dotenv`
+
+pip show twilio`
+
+python sms_service_fixed.py customers.csv`
+
+C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\backend\.env`
+
+dir .env`
+
+python -c "from dotenv import load_dotenv; import os; load_dotenv(dotenv_path=r'C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\backend\.env'); print(os.getenv('AC4a4cc6e81e86f7a6cdbce9ef0f10f5a5'))"
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\backend"`
+
+notepad sms_service_fixed.py`
+
+python sms_service_fixed.py customers.csv
+type .env`
+
+pip install python-dotenv`
+
+python -c "from dotenv import load_dotenv; import os; load_dotenv(r'C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\backend\.env'); print(os.getenv('TWILIO_ACCOUNT_SID'))"`
+
+Get-Content .env | Set-Content -Encoding UTF8 .env`
+
+python -c "from dotenv import load_dotenv; import os; load_dotenv(r'C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\backend\.env'); print(os.getenv('TWILIO_ACCOUNT_SID'))"`
+
+python sms_service_fixed.py customers.csv`
+
+npm run dev`
+
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\backend"`
+
+type .env`
+
+Get-Content .env | Set-Content -Encoding UTF8 -NoNewline .env`
+
+tasklist | findstr python`
+
+taskkill /IM python.exe /F`
+
+Get-Content .env | Set-Content -Encoding UTF8 -NoNewline .env`
+
+cd backend`
+
+del .env`
+
+notepad .env`
+
+notepad .env
+Get-Content .env
+type .env`
+
+Remove-Item .env`
+notepad .env`
+
+Remove-Item .env
+notepad .env
+npm run dev`
+
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\backend"`
+
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\backend"`
+
+python auto_sms_sender.py`
+
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\backend"`
+
+python auto_sms_sender.py`
+
+python - <<'PY'`
+import pandas as pd`
+df = pd.read_csv("customers.csv", encoding='utf-16')`
+print("📋 CSV Columns:", df.columns.tolist())`
+print(df.head())`
+PY`
+
+python -c "import pandas as pd; df = pd.read_csv('customers.csv', encoding='utf-16'); print('📋 CSV Columns:', df.columns.tolist()); print(df.head())"`
+
+python auto_sms_sender.py`
+
+python auto_sms_sender.py`
+
+backend/uploads/`
+
+dir uploads`
+
+mkdir uploads`
+
+move supermarket_structured_dataset uploads/`
+
+move supermarket_structured_dataset.csv uploads/`
+
+ls uploads`
+
+python auto_sms_sender.py`
+
+echo import pandas as pd
+echo import os, time, glob
+echo from twilio.rest import Client
+echo from dotenv import load_dotenv
+echo.
+echo load_dotenv()
+echo.
+echo account_sid = os.getenv("TWILIO_ACCOUNT_SID")
+echo from_number = os.getenv("TWILIO_PHONE_NUMBER")
+echo.
+echo UPLOAD_FOLDER = os.path.join("backend", "uploads")
+echo csv_files = glob.glob(os.path.join(UPLOAD_FOLDER, "*.csv"))
+echo if not csv_files:
+echo.    print("❌ No CSV files found in backend/uploads/. Please upload a dataset from the app first.")
+echo.    exit()
+echo.
+echo print(f"📂 Using latest uploaded file: {os.path.basename(latest_file)}")
+echo.
+echo try:
+echo.    df = pd.read_csv(latest_file, encoding='utf-16')
+echo except Exception:
+echo.    df = pd.read_csv(latest_file, encoding='utf-8')
+echo.
+echo print("\n📋 Columns found:", df.columns.tolist())
+echo print(df.head(), "\n")
+echo.
+echo phone_col = input("📞 Enter the column name that has phone numbers: ").strip()
+echo name_col = input(" Enter the column name for customer name (or press Enter to skip): ").strip()
+echo.
+echo if "Segment" in df.columns:
+echo.    use_segment = input(" Filter by category (Premium/Regular/Normal)? (y/n): ").lower()
+echo.    if use_segment == "y":
+echo.        seg = input("Enter category to send (e.g. Premium): ").strip()
+echo.        df = df[df["Segment"].str.lower() == seg.lower()]
+echo.        print(f"✅ Sending only to '{seg}' customers.")
+echo else:
+echo.    print("ℹ️ No 'Segment' column found. Sending to all.")
+echo.
+echo print(f"\n📢 Total numbers found: {len(df)}")
+echo confirm = input("Proceed to send SMS? (y/n): ").lower()
+echo if confirm != "y":
+echo.    print("❌ Cancelled.")
+echo.    exit()
+echo.
+echo success, failed = 0, 0
+echo for _, row in df.iterrows():
+echo.    name = row[name_col] if name_col and name_col in df.columns else "Customer"
+echo.    phone = str(row[phone_col]).strip()
+echo.    if not phone.startswith("+"):
+echo.        phone = f"+{phone}"
+echo.    msg = f"Hello {name}!  Exclusive offers waiting for you at Smart Supermarket. Visit us today!"
+echo.    try:
+echo.        client.messages.create(body=msg, from_=from_number, to=phone)
+echo.        print(f" Sent to {name} ({phone})")
+echo.        success += 1
+echo.    except Exception as e:
+echo.        print(f" Failed for {phone}: {e}")
+echo.        failed += 1
+echo.    time.sleep(1)
+echo.
+echo print(f"\n SMS sent: {success},  Failed: {failed}")
+) > auto_sms_sender.py
+backend/uploads/`
+
+cd backend\uploads`
+
+# 1️⃣ Create the uploads folder inside backend`
+mkdir uploads`
+`
+# 2️⃣ Verify that the folder exists`
+dir`
+`
+# 3️⃣ Move your CSV file into that uploads folder`
+# (change supermarket_structured_dataset.csv to your actual CSV name)`
+move supermarket_structured_dataset.csv uploads\`
+
+dir *.csv`
+
+customers.csv`
+
+move .\customers.csv .\uploads\`
+
+dir .\uploads`
+
+python auto_sms_sender.py`
+
+pwd`
+
+dir uploads`
+
+dir .\uploads`
+
+python auto_sms_sender.py`
+
+pwd`
+
+cd C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\backend`
+
+dir`
+
+dir uploads`
+
+move .\customers.csv .\uploads\`
+
+npm run dev
+cd C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard`
+
+cd frontend`
+
+PS C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard> cd frontend`
+>>`
+cd : Cannot find path `
+'C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\frontend'   `
+because it does not exist.`
+At line:1 char:1`
++ cd frontend`
++ ~~~~~~~~~~~`
+    + CategoryInfo          : ObjectNotFound: (C:\Users\Lenovo...hboard\fro  `
+   ntend:String) [Set-Location], ItemNotFoundException`
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.Se  `
+   tLocationCommand`
+`
+PS C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard> 
+cd C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard`
+mkdir frontend`
+cd frontend`
+npx create-next-app@latest ./`
+
+npm run dev`
+
+cd C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\frontend`
+
+mkdir app\login`
+
+npm run dev`
+
+cd C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\frontend`
+
+echo /** @type {import('next').NextConfig} */ >> next.config.js`
+
+/** @type {import('next').NextConfig} */`
+const nextConfig = {`
+  webpack: (config) => {`
+    return config; // use stable webpack, not Turbopack`
+  },`
+  experimental: {`
+    turbo: false, // disable Turbopack`
+  },`
+};`
+`
+export default nextConfig;`
+
+cd C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\frontend`
+
+@"`
+/** @type {import('next').NextConfig} */`
+const nextConfig = {`
+  webpack: (config) => {`
+    return config; // use stable webpack, not Turbopack`
+  },`
+  experimental: {`
+    turbo: false, // disable Turbopack`
+  },`
+};`
+`
+export default nextConfig;`
+"@ | Out-File -Encoding utf8 next.config.mjs`
+
+rd /s /q .next`
+npm run dev`
+
+Remove-Item -Recurse -Force .next`
+
+Remove-Item -Force next.config.js`
+
+dir next.config.mjs`
+
+npm run dev`
+
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\frontend"`
+
+@"`
+/** @type {import('next').NextConfig} */`
+const nextConfig = {`
+  webpack: (config) => {`
+    return config; // use stable webpack, not Turbopack`
+  },`
+};`
+`
+export default nextConfig;`
+"@ | Out-File -Encoding utf8 next.config.mjs`
+
+npm run dev`
+
+@"`
+/** @type {import('next').NextConfig} */`
+const nextConfig = {`
+  // Disable Turbopack errors by adding an empty config`
+  turbopack: {},`
+};`
+`
+export default nextConfig;`
+"@ | Out-File -Encoding utf8 next.config.mjs`
+
+Remove-Item -Recurse -Force .next`
+
+npm run dev`
+
+npm run dev`
+
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\backend"
+ * Running on http://127.0.0.1:5000`
+
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\backend"`
+
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\backend"`
+
+cd C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\frontend`
+
+npm run dev`
+
+curl -X POST http://127.0.0.1:5000/verify ^
+ -H "Content-Type: application/json" ^
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\frontend"
+npm run dev
+npm run dev`
+
+.env.local`
+
+notepad .env.local`
+
+npm run dev
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\frontend"
+notepad package.json`
+
+npx next telemetry disable
+rd /s /q .next
+Remove-Item -Recurse -Force .next`
+
+npm run dev`
+
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\frontend"`
+
+notepad package.json`
+
+notepad next.config.js
+rmdir /s /q .next
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\frontend"`
+
+rmdir /s /q .next`
+
+Remove-Item -Recurse -Force .next`
+
+npm run dev`
+
+cd C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\frontend`
+notepad .env.local`
+
+npm run dev
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\frontend"
+(Get-Content next.config.js) -replace 'experimental:\s*{[^}]*}', '' | Set-Content next.config.js`
+
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard"`
+
+del package-lock.json`
+
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\frontend"`
+(Get-Content package.json) -replace '{', '{`r`n  "type": "module",' | Set-Content package.json`
+
+Remove-Item -Recurse -Force .next -ErrorAction SilentlyContinue`
+npm install`
+npm run dev`
+
+C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\frontend\package.json`
+
+cd C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\frontend
+Remove-Item -Recurse -Force .next -ErrorAction SilentlyContinue`
+npm install`
+npm run dev`
+
+cd C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\frontend`
+npm run dev`
+
+& C:/Users/Lenovo/Downloads/smart-supermarket-analytics-dashboard/venv/Scripts/Activate.ps1
+cd C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\backend`
+pip install flask flask-cors`
+
+ python.exe -m pip install --upgrade pip
+& C:/Users/Lenovo/Downloads/smart-supermarket-analytics-dashboard/venv/Scripts/Activate.ps1
+cd C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\frontend`
+npm run dev`
+
+.\venv\Scripts\activate`
+
+pwd`
+
+dir`
+
+python -m venv venv`
+
+.\venv\Scripts\Activate.ps1`
+
+(venv) PS C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\backend>`
+
+pip install flask flask-cors`
+
+pip list`
+
+cd C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\frontend`
+
+rmdir /s /q .next`
+
+echo /** @type {import('next').NextConfig} */> next.config.js`
+echo const nextConfig = { >> next.config.js`
+echo   experimental: {}, >> next.config.js`
+echo   webpack: (config) => { >> next.config.js`
+echo     return config; >> next.config.js`
+echo   }, >> next.config.js`
+echo }; >> next.config.js`
+echo module.exports = nextConfig; >> next.config.js`
+
+Remove-Item -Recurse -Force .next -ErrorAction SilentlyContinue`
+`
+@"`
+ /** @type {import('next').NextConfig} */`
+const nextConfig = {`
+  experimental: {},`
+  webpack: (config) => {`
+    return config;`
+  },`
+};`
+`
+module.exports = nextConfig;`
+"@ | Out-File -Encoding utf8 next.config.js`
+
+npm install`
+npm run dev`
+
+@"`
+ /** @type {import('next').NextConfig} */`
+const nextConfig = {`
+  experimental: {},`
+  webpack: (config) => {`
+    return config;`
+  },`
+};`
+`
+export default nextConfig;`
+"@ | Out-File -Encoding utf8 next.config.js`
+
+npm run dev`
+
+npm run dev -- --webpack`
+
+cd C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\frontend
+dir
+cd C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\`
+move frontend-main\* frontend\`
+
+cd C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard`
+dir`
+
+cd C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard`
+npm install`
+npm run dev`
+
+dir`
+
+npm install`
+npm run dev`
+
+dir components`
+
+notepad App.tsx`
+
+notepad App.tsx
+cd ..
+notepad App.tsx
+notepad Dashboard.tsx
+npm run dev
+cd C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard`
+npm run dev`
+
+dir frontend/app/login/page.tsx
+frontend/app/login/page.tsx
+cd C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\frontend`
+
+mkdir app\login`
+
+echo. > app\login\page.tsx`
+
+echo. > app\login\page.tsx`
+New-Item -Path "app\login\page.tsx" -ItemType File -Force`
+
+npm run dev`
+
+Duplicate page detected. app\login\page.js and app\login\page.tsx`
+
+del app\login\page.js`
+
+@"`
+/** @type {import('next').NextConfig} */`
+const nextConfig = {`
+  turbopack: {}, // ✅ Enables Turbopack properly`
+  experimental: {},`
+};`
+`
+export default nextConfig;`
+"@ | Set-Content -Path "next.config.js"`
+
+cd ..`
+del package-lock.json`
+cd frontend`
+
+npm run dev`
+
+Remove-Item -Recurse -Force .next`
+
+npm run dev`
+
+cd "C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\frontend"`
+
+npm run dev`
+
+cd ..\backend`
+
+cd C:\Users\Lenovo\Downloads\smart-supermarket-analytics-dashboard\frontend`
+npm run dev`
+
+cd C:\Users\Lenovo\Downloads\supermarket-analytics-dashboard
+pipo install npm
+pip install npm
+npm run dev
+cd C:\Projects\smart-market-analytics-dashboard\frontend`
+`
+# install dependencies`
+npm install`
+`
+# dev server`
+npm run dev`
+# or`
+npm start`
+
+cd C:\Projects\smart-market-analytics-dashboard\backend`
+`
+# create venv`
+python -m venv venv`
+# activate`
+.\venv\Scripts\Activate.ps1   # in PowerShell`
+# or .\venv\Scripts\activate.bat in cmd`
+`
+# install Python dependencies`
+pip install -r requirements.txt`
+`
+# run backend`
+python app.py`
+# அல்லது python server.py (project doc-ஐப் பார்த்து)`
+
+Get-ChildItem`
+
+# deactivate venv (optional)`
+deactivate`
+
+npm install`
+
+npm run dev`
+
+npm run dev
+node -v`
+npm -v`
+
+npm install`
+
+npx vite`
+
+cd C:\Users\Lenovo\Downloads
+npm create vite@latest smart-market-analytics-dashboard -- --template react-ts
+cd smart-market-analytics-dashboard`
+
+npm install`
+
+npm install recharts`
+
+npm install -D tailwindcss postcss autoprefixer`
+npx tailwindcss init -p`
+
+echo "@tailwind base;`n@tailwind components;`n@tailwind utilities;" > src/index.css`
+
+mkdir src`
+
+cd src`
+
+echo.> index.css`
+
+New-Item -Path . -Name "index.css" -ItemType "File"`
+
+notepad index.css`
+
+cd ..
+npm run dev`
+
+npm install react-router-dom`
+
+notepad src\main.tsx`
+
+cd src
+New-Item -Path . -Name "Dashboard.tsx" -ItemType "File"
+notepad Dashboard.tsx
+npm run dev
+import { useNavigate } from "react-router-dom";`
+`
+const FileUpload = () => {`
+  const navigate = useNavigate();`
+`
+  const handleFileUpload = (e: React.ChangeEvent<HTMLInputElement>) => {`
+    const file = e.target.files?.[0];`
+    if (!file) return;`
+`
+    const reader = new FileReader();`
+    reader.onload = (event) => {`
+      try {`
+        const jsonData = JSON.parse(event.target?.result as string);`
+        localStorage.setItem("uploadedData", JSON.stringify(jsonData));`
+        navigate("/dashboard"); // 👈 redirect to dashboard`
+      } catch {`
+        alert("Please upload a valid JSON file!");`
+      }`
+    };`
+    reader.readAsText(file);`
+  };`
+`
+  return (`
+    <div className="p-8 text-center border border-blue-400 rounded-xl bg-black/40">`
+      <h2 className="text-blue-300 mb-2 text-xl font-semibold">`
+        Upload Data File`
+      </h2>`
+      <input type="file" accept=".json" onChange={handleFileUpload} />`
+    </div>`
+  );`
+};`
+`
+export default FileUpload;
+cd C:\Users\Lenovo\Downloads`
+npm create vite@latest smart-market-analytics-dashboard -- --template react-ts`
+
+cd smart-market-analytics-dashboard`
+
+npm install`
+
+npm install react-router-dom`
+
+npm install recharts`
+
+npm install -D tailwindcss postcss autoprefixer`
+npx tailwindcss init -p`
+
+(Get-Content .\tailwind.config.js) -replace "content: \[\]", 'content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],' | Set-Content .\tailwind.config.js`
+
+npm dev run
+npm run dev
+cd C:\Users\Lenovo\Downloads`
+mkdir smartmarket-app`
+cd smartmarket-app`
+
+cd C:\Users\Lenovo\Downloads\smart-market-full\smartmarket-app`
+
+npm install`
+
+mkdir src\pages`
+mkdir src\pages\login`
+mkdir src\pages\dashboard`
+
+robocopy "C:\Users\Lenovo\Downloads\smart-market-full\login" "src\pages\login" /E /XD node_modules .git dist`
+robocopy "C:\Users\Lenovo\Downloads\smart-market-full\dashboard" "src\pages\dashboard" /E /XD node_modules .git dist`
+
+tree /F src`
+
+npm install react-router-dom`
+
+del src\App.tsx`
+
+@echo import { BrowserRouter as Router, Routes, Route } from "react-router-dom";> src\App.tsx`
+@echo import Login from "./pages/login/App";>> src\App.tsx`
+@echo import Dashboard from "./pages/dashboard/App";>> src\App.tsx`
+@echo.>> src\App.tsx`
+@echo function App() {>> src\App.tsx`
+@echo ^  return (^>> src\App.tsx`
+@echo ^    <Router>^>> src\App.tsx`
+@echo ^      <Routes>^>> src\App.tsx`
+@echo ^        <Route path="/" element={<Login />} />^>> src\App.tsx`
+@echo ^        <Route path="/dashboard" element={<Dashboard />} />^>> src\App.tsx`
+@echo ^      </Routes>^>> src\App.tsx`
+@echo ^    </Router>^>> src\App.tsx`
+@echo ^  );^>> src\App.tsx`
+@echo }>> src\App.tsx`
+@echo.>> src\App.tsx`
+@echo export default App;>> src\App.tsx`
+
+@'`
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";`
+import Login from "./pages/login/App";`
+import Dashboard from "./pages/dashboard/App";`
+`
+function App() {`
+  return (`
+    <Router>`
+      <Routes>`
+        <Route path="/" element={<Login />} />`
+        <Route path="/dashboard" element={<Dashboard />} />`
+      </Routes>`
+    </Router>`
+  );`
+}`
+`
+export default App;`
+'@ | Out-File -FilePath "src\App.tsx" -Encoding utf8`
+
+@'`
+import React from "react";`
+import ReactDOM from "react-dom/client";`
+import App from "./App";`
+import "./index.css";`
+`
+ReactDOM.createRoot(document.getElementById("root")!).render(`
+  <React.StrictMode>`
+    <App />`
+  </React.StrictMode>`
+);`
+'@ | Out-File -FilePath "src\main.tsx" -Encoding utf8`
+
+npm run dev`
+
+npm install @google/generative-ai recharts`
+
+npm run dev`
+
+cd C:\Users\Lenovo\Downloads\smart-market-full\smartmarket-app
+findstr /s /i "@google/genai" src\pages\dashboard\services\geminiService.ts`
+
+(Get-Content src\pages\dashboard\services\geminiService.ts) -replace '@google/genai', '@google/generative-ai' | Set-Content src\pages\dashboard\services\geminiService.ts`
+
+npm run dev`
+
+dir src\pages\login\App.tsx`
+
+dir src\pages\dashboard\App.tsx`
+
+@'`
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";`
+import Login from "./pages/login/App";`
+import Dashboard from "./pages/dashboard/App";`
+`
+function App() {`
+  return (`
+    <Router>`
+      <Routes>`
+        <Route path="/" element={<Login />} />`
+        <Route path="/dashboard" element={<Dashboard />} />`
+      </Routes>`
+    </Router>`
+  );`
+}`
+`
+export default App;`
+'@ | Out-File -FilePath "src\App.tsx" -Encoding utf8`
+
+npm run dev`
+
+type src\App.tsx`
+
+type src\pages\login\App.tsx`
+
+npm run dev`
+
+type src\pages\login\App.tsx`
+
+@'`
+import React from "react";`
+import { useNavigate } from "react-router-dom";`
+`
+function Login() {`
+  const navigate = useNavigate();`
+`
+  return (`
+    <div style={{`
+      height: "100vh",`
+      display: "flex",`
+      flexDirection: "column",`
+      alignItems: "center",`
+      justifyContent: "center",`
+      background: "radial-gradient(circle at top left, #00111f, #000000 70%)",`
+      color: "#00bfff",`
+      fontFamily: "Segoe UI, sans-serif"`
+    }}>`
+      <h1 style={{ textShadow: "0 0 20px #00bfff" }}>Smart Market Login</h1>`
+      <button`
+        style={{`
+          marginTop: "20px",`
+          padding: "10px 20px",`
+          borderRadius: "12px",`
+          border: "none",`
+          background: "linear-gradient(90deg,#0077ff,#00ffff)",`
+          color: "white",`
+          fontSize: "16px",`
+          cursor: "pointer",`
+          boxShadow: "0 0 10px #00bfff"`
+        }}`
+        onClick={() => navigate("/dashboard")}`
+      >`
+        Go to Dashboard`
+      </button>`
+    </div>`
+  );`
+}`
+`
+export default Login;`
+'@ | Out-File -FilePath "src\pages\login\App.tsx" -Encoding utf8`
+
+npm run dev`
+
+findstr /c:"root" src\index.html`
+
+@'`
+<!DOCTYPE html>`
+<html lang="en">`
+  <head>`
+    <meta charset="UTF-8" />`
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />`
+    <title>Smart Market App</title>`
+  </head>`
+  <body style="margin:0;padding:0;background:black;">`
+    <div id="root"></div>`
+    <script type="module" src="/src/main.tsx"></script>`
+  </body>`
+</html>`
+'@ | Out-File -FilePath "src\index.html" -Encoding utf8`
+
+findstr /c:"createRoot" src\main.tsx`
+
+type src\App.tsx`
+
+dir src\pages\login\App.tsx`
+
+@'`
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";`
+import Login from "./pages/login/App";`
+import Dashboard from "./pages/dashboard/App";`
+`
+function App() {`
+  return (`
+    <Router>`
+      <Routes>`
+        <Route path="/" element={<Login />} />`
+        <Route path="/dashboard" element={<Dashboard />} />`
+        <Route path="*" element={<h1 style={{color:"white",textAlign:"center",marginTop:"50px"}}>Page Not Found</h1>} />`
+      </Routes>`
+    </Router>`
+  );`
+}`
+`
+export default App;`
+'@ | Out-File -FilePath "src\App.tsx" -Encoding utf8`
+
+npm run dev`
+
+@'`
+import React from "react";`
+`
+function App() {`
+  return (`
+    <div style={{`
+      height: "100vh",`
+      display: "flex",`
+      alignItems: "center",`
+      justifyContent: "center",`
+      background: "radial-gradient(circle at center, #001133, #000000 80%)",`
+      color: "#00bfff",`
+      fontSize: "2rem",`
+      fontFamily: "Segoe UI, sans-serif",`
+      textShadow: "0 0 20px #00bfff"`
+    }}>`
+       Smart Market Dashboard is Running!`
+    </div>`
+  );`
+}`
+`
+export default App;`
+'@ | Out-File -FilePath "src\App.tsx" -Encoding utf8
+npm run dev`
+
+mkdir src\pages`
+mkdir src\pages\login`
+mkdir src\pages\dashboard`
+
+@'`
+import React from "react";`
+import { useNavigate } from "react-router-dom";`
+`
+function Login() {`
+  const navigate = useNavigate();`
+`
+  return (`
+    <div style={{`
+      height: "100vh",`
+      background: "radial-gradient(circle at top left, #00111f, #000000 80%)",`
+      display: "flex",`
+      flexDirection: "column",`
+      alignItems: "center",`
+      justifyContent: "center",`
+      color: "#00bfff",`
+      fontFamily: "Segoe UI, sans-serif"`
+    }}>`
+      <h1 style={{ textShadow: "0 0 20px #00bfff" }}>Smart Market Login</h1>`
+      <button`
+        style={{`
+          marginTop: "20px",`
+          padding: "10px 25px",`
+          borderRadius: "12px",`
+          border: "none",`
+          background: "linear-gradient(90deg,#0077ff,#00ffff)",`
+          color: "white",`
+          fontSize: "16px",`
+          cursor: "pointer",`
+          boxShadow: "0 0 10px #00bfff"`
+        }}`
+        onClick={() => navigate("/dashboard")}`
+      >`
+        Go to Dashboard`
+      </button>`
+    </div>`
+  );`
+}`
+`
+export default Login;`
+'@ | Out-File -FilePath "src\pages\login\App.tsx" -Encoding utf8`
+
+@'`
+import React from "react";`
+`
+function Dashboard() {`
+  return (`
+    <div style={{`
+      height: "100vh",`
+      background: "radial-gradient(circle at bottom right, #000814, #000000 80%)",`
+      display: "flex",`
+      flexDirection: "column",`
+      alignItems: "center",`
+      justifyContent: "center",`
+      color: "#00ffff",`
+      fontFamily: "Segoe UI, sans-serif"`
+    }}>`
+      <h1 style={{ textShadow: "0 0 20px #00ffff" }}>📊 Smart Market Dashboard</h1>`
+      <p>Data visualization and analytics coming soon...</p>`
+    </div>`
+  );`
+}`
+`
+export default Dashboard;`
+'@ | Out-File -FilePath "src\pages\dashboard\App.tsx" -Encoding utf8`
+
+@'`
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";`
+import Login from "./pages/login/App";`
+import Dashboard from "./pages/dashboard/App";`
+`
+function App() {`
+  return (`
+    <Router>`
+      <Routes>`
+        <Route path="/" element={<Login />} />`
+        <Route path="/dashboard" element={<Dashboard />} />`
+      </Routes>`
+    </Router>`
+  );`
+}`
+`
+export default App;`
+'@ | Out-File -FilePath "src\App.tsx" -Encoding utf8`
+
+npm run dev`
+
+rmdir /s /q node_modules`
+del package-lock.json`
+npm install`
+
+Remove-Item -Recurse -Force node_modules`
+Remove-Item -Force package-lock.json`
+npm install`
+
+npm run dev`
+
+npm run dev`
+
+Remove-Item -Recurse -Force node_modules`
+Remove-Item -Force package-lock.json`
+npm install`
+npm run dev`
+
+cd C:\Users\Lenovo\Downloads\smart-market-full\smartmarket-app`
+Remove-Item -Recurse -Force node_modules`
+Remove-Item -Force package-lock.json`
+npm install`
+npm run dev`
+
+Get-Content src\pages\login\App.tsx | Select-String "gradientShift"`
+
+npm run dev
+npm run build`
+
+npm install --save-dev vite-plugin-checker`
+
+@'`
+import { defineConfig } from "vite";`
+import react from "@vitejs/plugin-react";`
+`
+export default defineConfig({`
+  plugins: [react()],`
+  esbuild: {`
+    jsxInject: `import React from "react"`,`
+  },`
+  build: {`
+    sourcemap: false,`
+  },`
+});`
+'@ | Out-File -FilePath "vite.config.ts" -Encoding utf8`
+
+npm run build`
+
+(Get-Content package.json) -replace '"build": "tsc -b && vite build"', '"build": "vite build"' | Set-Content package.json`
+
+@'`
+import { defineConfig } from "vite";`
+import react from "@vitejs/plugin-react";`
+`
+export default defineConfig({`
+  plugins: [react()],`
+  build: {`
+    sourcemap: false,`
+  },`
+  esbuild: {`
+    jsxInject: `import React from "react"`,`
+  },`
+});`
+'@ | Out-File -FilePath "vite.config.ts" -Encoding utf8`
+
+npm run build`
+
+npm run preview`
+
+cd C:\Users\Lenovo\Downloads\smart-market-full\smartmarket-app`
+
+@'`
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";`
+import Login from "./pages/login/App";`
+import Dashboard from "./pages/dashboard/App";`
+`
+function App() {`
+  return (`
+    <Router>`
+      <Routes>`
+        <Route path="/" element={<Login />} />`
+        <Route path="/dashboard" element={<Dashboard />} />`
+      </Routes>`
+    </Router>`
+  );`
+}`
+`
+export default App;`
+'@ | Out-File -FilePath "src\App.tsx" -Encoding utf8`
+
+@'`
+export default function Login() {`
+  return (`
+    <div style={{ color: "cyan", background: "black", height: "100vh", textAlign: "center", paddingTop: "200px" }}>`
+      <h1>Login Page</h1>`
+      <a href="/dashboard" style={{ color: "lime" }}>Go to Dashboard</a>`
+    </div>`
+  );`
+}`
+'@ | Out-File -FilePath "src\pages\login\App.tsx" -Encoding utf8`
+
+@'`
+export default function Dashboard() {`
+  return (`
+    <div style={{ color: "yellow", background: "black", height: "100vh", textAlign: "center", paddingTop: "200px" }}>`
+      <h1>Dashboard Page</h1>`
+      <a href="/" style={{ color: "pink" }}>Logout</a>`
+    </div>`
+  );`
+}`
+'@ | Out-File -FilePath "src\pages\dashboard\App.tsx" -Encoding utf8`
+
+npm run dev`
+
+type src\main.tsx`
+
+@'`
+import React from "react";`
+import ReactDOM from "react-dom/client";`
+import App from "./App";`
+import "./index.css";`
+`
+ReactDOM.createRoot(document.getElementById("root")!).render(`
+  <React.StrictMode>`
+    <App />`
+  </React.StrictMode>`
+);`
+'@ | Out-File -FilePath "src\main.tsx" -Encoding utf8`
+
+npm run dev`
+
+npm run dev
+pip install npm
+npm run dev
+npm install vite --save-dev
+rd /s /q node_modules`
+
+cd "C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard"`
+
+dir`
+
+rd /s /q node_modules`
+
+del package-lock.json`
+
+Remove-Item -Recurse -Force node_modules`
+
+Remove-Item -Force package-lock.json`
+
+Remove-Item -Recurse -Force node_modules`
+
+npm cache clean --force`
+
+npm install vite --save-dev`
+
+npm run dev
+cd C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard`
+rmdir /s /q node_modules`
+del package-lock.json`
+
+# Delete node_modules folder if it exists`
+Remove-Item -Recurse -Force .\node_modules -ErrorAction SilentlyContinue`
+`
+# Delete package-lock.json if it exists`
+Remove-Item -Force .\package-lock.json -ErrorAction SilentlyContinue`
+
+npm cache clean --force`
+
+npm install`
+
+npm install patch-package --save-dev`
+
+npx vite`
+
+div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+# Run and deploy your AI Studio app
+This contains everything you need to run your app locally.
+View your app in AI Studio: https://ai.studio/apps/drive/1PV8zEqTqkgWqIUCxTcUMkHhBhV1-saoV
+## Run Locally
+**Prerequisites:**  Node.js
+1. Install dependencies:
+   `npm install`
+3. Run the app:
+   `npm run dev`
+npm init -y`
+
+npm install express cors body-parser node-fetch`
+
+npm set-script start "node server.js"`
+
+npm start`
+
+setup-demo.ps1`
+
+npm run dev
+npm start
+# ================================`
+# Add "start" script to existing package.json`
+# Structure change இல்லாமல்`
+# ================================`
+`
+$project = "C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard"`
+$pkgPath = "$project\package.json"`
+`
+# Read package.json`
+$pkgJson = Get-Content $pkgPath -Raw | ConvertFrom-Json`
+`
+# Add "start" script only if not already there`
+if (-not $pkgJson.scripts.start) {`
+    $pkgJson.scripts.start = "node server.js"`
+    $pkgJson | ConvertTo-Json -Depth 10 | Set-Content $pkgPath -Encoding UTF8`
+    Write-Host "`n✅ 'start' script added successfully! You can now run: npm start"`
+} else {`
+    Write-Host "`nℹ️ 'start' script already exists. Nothing changed."`
+}`
+
+$project = "C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard"`
+$pkgPath = "$project\package.json"`
+`
+# Read package.json`
+$pkgJson = Get-Content $pkgPath -Raw | ConvertFrom-Json`
+`
+# Make sure 'scripts' exists`
+if (-not $pkgJson.PSObject.Properties.Match("scripts")) {`
+    $pkgJson | Add-Member -MemberType NoteProperty -Name scripts -Value @{}`
+}`
+`
+# Add "start" script`
+$pkgJson.scripts.start = "node server.js"`
+`
+# Save back`
+$pkgJson | ConvertTo-Json -Depth 10 | Set-Content $pkgPath -Encoding UTF8`
+`
+Write-Host "`n✅ 'start' script added successfully! You can now run: npm start"`
+
+add-start-fixed2.ps1`
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
+.\add-start-fixed2.ps1`
+
+setup-full-demo.ps1`
+
+cd C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard`
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
+.\setup-full-demo.ps1`
+
+dir`
+
+cd C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard`
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
+.\setup-full-demo.ps1`
+
+setup-full-demo.ps1`
+
+cd C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard`
+dir`
+
+npm start`
+
+npm start
+npm start`
+
+npm run dev
+cd "C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard"
+# Create index.css if it doesn't exist
+if (-not (Test-Path .\index.css)) {`
+    echo "/* Tailwind base */`n@tailwind base;`n@tailwind components;`n@tailwind utilities;" > .\index.css`
+}
+# Create postcss.config.cjs`
+$postcssConfig = @'`
+module.exports = {`
+    plugins: {`
+        tailwindcss: {},`
+        autoprefixer: {},`
+    },`
+};`
+'@`
+`
+$postcssConfig | Out-File -Encoding UTF8 "postcss.config.cjs"`
+
+npm install -D tailwindcss autoprefixer postcss`
+npx tailwindcss init`
+
+# vite.config.ts already exists, ensure plugins: [react()] is there`
+
+npm run dev`
+
+cd "C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard"
+npm install -D tailwindcss@latest postcss@latest autoprefixer@latest @tailwindcss/postcss
+# ===============================`
+# Create postcss.config.cjs with Tailwind + Autoprefixer`
+# ===============================`
+$project = "C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard"`
+$postcssPath = Join-Path $project "postcss.config.cjs"`
+`
+$postcssContent = @"`
+module.exports = {`
+  plugins: [`
+    require('@tailwindcss/postcss'),`
+    require('autoprefixer')`
+  ]`
+}`
+"@`
+`
+$postcssContent | Set-Content -Path $postcssPath -Encoding UTF8`
+`
+Write-Host "✅ postcss.config.cjs created successfully!"`
+
+# ===============================`
+# Create index.css with Tailwind directives`
+# ===============================`
+$project = "C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard"`
+$cssPath = Join-Path $project "index.css"`
+`
+$cssContent = @"`
+@tailwind base;`
+@tailwind components;`
+@tailwind utilities;`
+"@`
+`
+$cssContent | Set-Content -Path $cssPath -Encoding UTF8`
+`
+Write-Host "✅ index.css created successfully!"`
+
+npm run dev`
+
+$project = "C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard"`
+$cssPath = Join-Path $project "index.css"`
+`
+$cssContent = @"`
+@tailwind base;`
+@tailwind components;`
+@tailwind utilities;`
+"@`
+`
+$cssContent | Set-Content -Path $cssPath -Encoding UTF8`
+`
+Write-Host "✅ index.css created successfully for your project!"`
+
+npm run dev`
+
+cd "C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard"
+# Remove demo server + extra scripts if present
+Remove-Item -Recurse -Force server.js
+Remove-Item -Recurse -Force setup-full-demo.ps1
+Remove-Item -Recurse -Force add-start-fixed2.ps1
+# Remove tailwind/PostCSS setup files if you don't need them
+Remove-Item -Force index.css
+Remove-Item -Force postcss.config.js
+$pkgPath = "C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard\package.json"`
+$pkgJson = Get-Content $pkgPath -Raw | ConvertFrom-Json`
+`
+# Remove start/dev changes from demo`
+$pkgJson.scripts = @{`
+    "dev" = "vite"`
+    "build" = "vite build"`
+    "preview" = "vite preview"`
+}`
+`
+$pkgJson | ConvertTo-Json -Depth 10 | Set-Content $pkgPath -Encoding UTF8`
+
+npm run dev
+cd "C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard"
+# Remove demo PostCSS/Tailwind files
+Remove-Item -Force postcss.config.js
+Remove-Item -Force index.css
+$pkgPath = "C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard\package.json"`
+$pkgJson = Get-Content $pkgPath -Raw | ConvertFrom-Json`
+`
+$pkgJson.scripts = @{`
+    "dev" = "vite"`
+    "build" = "vite build"`
+    "preview" = "vite preview"`
+}`
+`
+$pkgJson | ConvertTo-Json -Depth 10 | Set-Content $pkgPath -Encoding UTF8`
+
+Remove-Item -Force server.js`
+
+npm install`
+npm run dev`
+
+cd "C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard"
+# Remove any leftover PostCSS / demo CSS
+Remove-Item -Force postcss.config.js -ErrorAction SilentlyContinue
+Remove-Item -Force index.css -ErrorAction SilentlyContinue
+Remove-Item -Force server.js -ErrorAction SilentlyContinue
+# Remove node_modules and lockfile`
+Remove-Item -Recurse -Force node_modules`
+Remove-Item -Force package-lock.json`
+`
+# Reinstall packages`
+npm install`
+
+npm run dev
+npm install -D tailwindcss autoprefixer`
+
+npm run dev`
+
+npm install
+npm run dev
+node server.js`
+
+cd C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard\backend`
+
+smart-market-analytics-dashboard/`
+│`
+├─ frontend/   (your existing React/Vite code)`
+└─ backend/    (new folder for backend)`
+
+cd C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard`
+
+mkdir backend`
+
+cd backend`
+
+npm init -y`
+
+npm install express cors`
+
+node server.js`
+
+cd C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard\backend`
+
+New-Item server.js`
+
+cd C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard`
+
+mkdir backend`
+cd backend`
+
+cd C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard\backend`
+
+dir`
+
+node server.js`
+
+notepad server.js`
+
+npm install express cors
+node server.js`
+
+cd C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard`
+npm run dev`
+
+cd C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard\backend
+npm run dev
+npm start
+npm run dev
+npm init -y`
+npm install express`
+
+node index.js`
+
+npm run dev
+cd backend`
+node server.js
+cd C:\Users\Lenovo\Downloads\smart-market-analytics-dashboard\backend
+npm install express cors multer
+node server.js
+npm run dev
+node server.js
+npm run dev
+npm install
+npm run dev
+pip npm install
+npm install
+ npm install -g npm@11.6.2
+npm install node
+npm run dev
+npm install
+npm run
+# Project Title`
+`
+Brief description`
+`
+## Features`
+- Feature 1`
+- Feature 2`
+`
+## Installation`
+```bash`
+npm install
+npm start
+# Current folder-லிருந்து வெளியேறுங்கள்`
+cd ..`
+`
+# புதிய Vite React project உருவாக்குங்கள்`
+npm create vite@latest my-3d-portfolio -- --template react`
+cd my-3d-portfolio`
+`
+# Dependencies install செய்யுங்கள்`
+npm install`
+`
+# Additional packages install செய்யுங்கள்`
+npm install three @react-three/fiber @react-three/drei`
+npm install framer-motion`
+npm install @emailjs/browser`
+npm install -D tailwindcss postcss autoprefixer`
+`
+# Tailwind setup`
+npx tailwindcss init -p
+# இப்போது project run செய்யுங்கள்`
+npm run dev
+cd my-3d-portfolio
+npm install three @react-three/fiber @react-three/drei`
+npm install framer-motion`
+npm install @emailjs/browser
+npm install -D tailwindcss postcss autoprefixer`
+npx tailwindcss init -p
+npm run dev
+npm install
+npm built
+npm preview
+npm run dev
+# src/index.css-ஐ open செய்யுங்கள்`
+notepad src/index.css
+npm install
+npm run dev
+cd project_3D_developer_portfolio
+dir
+npm install
+# Go back to Downloads folder`
+cd ..`
+`
+# Then navigate to the project`
+cd project_3D_developer_portfolio-main
+# See what's in current location`
+Get-ChildItem`
+`
+# If you see another project_3D_developer_portfolio folder inside, then:`
+cd project_3D_developer_portfolio
+ls
+npm install`
+npm run dev
+npm install --legacy-peer-deps
+npm run dev
+copy "C:\Users\Lenovo\Downloads\kishore_preffesional .pic.jpg" "src\assets\kishore.jpg"
+# First, file open pannu`
+notepad src\components\Hero.jsx
+# 1. Photo copy
+copy "C:\Users\Lenovo\Downloads\kishore_preffesional .pic.jpg" "src\assets\kishore.jpg"
+# 2. File open
+notepad src\components\Hero.jsx
+# 3. Melatha changes pannu
+# 4. Save (Ctrl+S)
+npm run dev
+# 1. Copy photo`
+copy "C:\Users\Lenovo\Downloads\kishore_preffesional .pic.jpg" "src\assets\kishore.jpg"`
+`
+# 2. Open and edit Hero.jsx`
+notepad src\components\Hero.jsx`
+`
+# 3. Open and edit constants`
+notepad src\constants\index.js`
+`
+# 4. Save all and check browser
+notepad src\components\Contact.jsx
+npm run dev
+notepad src\constants\index.js
+npm run dev
+# Run this command (optional)
+npx update-browserslist-db@latest
+npm run dev
+# Icons copy pannu src/assets/ folder-ku`
+copy "C:\Users\Lenovo\Downloads\icons8-python-144.png" "src\assets\python.png"`
+copy "C:\Users\Lenovo\Downloads\icons8-power-bi-144.png" "src\assets\powerbi.png"`
+copy "C:\Users\Lenovo\Downloads\icons8-tableau-software-144.png" "src\assets\tableau.png"
+notepad src\constants\index.js
+npm run dev
+copy "C:\Users\Lenovo\Downloads\icons8-python-144.png" "src\assets\python.png"`
+copy "C:\Users\Lenovo\Downloads\icons8-power-bi-144.png" "src\assets\powerbi.png"`
+copy "C:\Users\Lenovo\Downloads\icons8-tableau-software-144.png" "src\assets\tableau.png"
+notepad src\assets\index.js
+notepad src\constants\index.js
+npm run dev
+notepad src\components\Hero.jsx
+npm run dev
+notepad src\constants\index.js
+npm run dev
+notepad src\constants\index.js
+npm run dev
+notepad src\constants\index.js
+npm run dev
+notepad src\constants\index.js
+npm run dev
+notepad src\constants\index.js
+npm run dev
+notepad src\constants\index.js
+npm run dev
+notepad src\constants\index.js
+npm run dev
+notepad src\constants\index.js
+npm run dev
+copy "C:\Users\Lenovo\Downloads\kishore_preffesional .pic.jpg" "src\assets\mentor.jpg"
+notepad src\assets\index.js
+import logo from "./logo.svg";
+import backend from "./backend.png";
+import creator from "./creator.png";
+import mobile from "./mobile.png";
+import web from "./web.png";
+import github from "./github.png";
+import menu from "./menu.svg";
+import close from "./close.svg";
+import css from "./tech/css.png";
+import docker from "./tech/docker.png";
+import figma from "./tech/figma.png";
+import git from "./tech/git.png";
+import html from "./tech/html.png";
+import javascript from "./tech/javascript.png";
+import mongodb from "./tech/mongodb.png";
+import nodejs from "./tech/nodejs.png";
+import reactjs from "./tech/reactjs.png";
+import redux from "./tech/redux.png";
+import tailwind from "./tech/tailwind.png";
+import typescript from "./tech/typescript.png";
+import threejs from "./tech/threejs.svg";
+import meta from "./company/meta.png";
+import shopify from "./company/shopify.png";
+import starbucks from "./company/starbucks.png";
+import tesla from "./company/tesla.png";
+import carrent from "./carrent.png";
+import jobit from "./jobit.png";
+import tripguide from "./carrent.png";
+import python from "./python.png";
+import powerbi from "./powerbi.png";
+import tableau from "./tableau.png";
+import mentor from "./mentor.jpg";  // ADDED
+notepad src\assets\index.js
+npm run devc
+npm run dev
+notepad src\constants\index.js
+npm run dev
+notepad src\constants\index.js
+npm run dev
+notepad src\constants\index.js
+npm run dev
+notepad src\constants\index.js
+npm run dev
+notepad src\constants\index.js
+npm run dev
+notepad src\constants\index.js
+npm run dev
+notepad src\constants\index.js
+npm run dev
+notepad src\constants\index.js
+npm run dev
+copy "C:\Users\Lenovo\Pictures\Screenshots\Screenshot 2025-11-10 001722.png" "src\assets\supermarket.png"`
+copy "C:\Users\Lenovo\Pictures\Screenshots\visual screenshot1.png" "src\assets\stockmarket.png"`
+copy "C:\Users\Lenovo\Pictures\Screenshots\Rolls royce dashboard screenshot.png" "src\assets\car-analysis.png"`
+copy "C:\Users\Lenovo\Pictures\Screenshots\product screenshot.png" "src\assets\ecommerce.png"
+notepad src\assets\index.js
+notepad src\constants\index.jsnotepad src\constants\index.js
+notepad src\constants\index.js
+npm run dev
+type src\assets\index.js
+type src\constants\index.js
+type src\assets\index.js
+notepad src\constants\index.js
+npm run dev
+notepad src\constants\index.js
+npm run dev
+notepad src\constants\index.js
+# Check if any file has errors
+npm run build
+notepad src\assets\index.js
+npm run dev
+notepad package.json
+notepad index.html
+copy "C:\Users\Lenovo\Downloads\kishore_preffesional .pic.jpg" "src\assets\navbar-logo.jpg"
+notepad src\components\Navbar.jsx
+notepad src\assets\index.js
+npm run dev
+notepad package.json
+npm run dev
+notepad src\components\Navbar.jsx
+npm run dev
+copy "C:\Users\Lenovo\Downloads\kishore_preffesional .pic.jpg" "public\favicon.ico"
+notepad index.html
+npm run dev
+copy "C:\Users\Lenovo\Downloads\kishhore portfolio navbar icon.jpg" "public\favicon.ico"
+notepad index.html
+npm run dev
+copy "C:\Users\Lenovo\Downloads\Untitled design.png" "public\favicon.png"
+notepad index.html
+npm run dev
+copy "C:\Users\Lenovo\Downloads\Generated Image November 11, 2025 - 5_12PM.png" "public\favicon.png"
+notepad index.html
+npm run dev
+copy "C:\Users\Lenovo\Downloads\Generated_Image_November_11__2025_-_5_12PM-removebg-preview.png" "public\favicon.png"
+notepad index.html
+npm run dev
+copy "C:\Users\Lenovo\Pictures\Screenshots\Screenshot 2025-11-10 001722.png" "src\assets\supermarket.png"`
+copy "C:\Users\Lenovo\Pictures\Screenshots\visual screenshot1.png" "src\assets\stockmarket.png"`
+copy "C:\Users\Lenovo\Pictures\Screenshots\Rolls royce dashboard screenshot.png" "src\assets\car-analysis.png"`
+copy "C:\Users\Lenovo\Pictures\Screenshots\product screenshot.png" "src\assets\ecommerce.png"
+notepad src\assets\index.js
+notepad src\constants\index.js
+npm run dev
+notepad src\constants\index.js
+npm run dev
+notepad src\assets\index.js
+npm run dev
+notepad src\components\canvas\Earth.jsx
+notepad src\components\Contact.jsx
+npm run dev
+notepad src\components\Contact.jsx
+npm run dev
+npm run build
+npm run dev
+notepad src\components\canvas\DataVisualization.jsx
+notepad src\components\canvas\index.js
+notepad src\components\Contact.jsx
+npm run dev
+notepad src\components\canvas\RotatingGlobe.jsx
+notepad src\components\canvas\index.js
+notepad src\components\Contact.jsx
+npm run dev
+notepad src\components\Contact.jsx
+npm run dev
+notepad src\components\Test.jsx
+notepad src\App.jsx
+npm run dev
+notepad src\components\index.js
+npm run dev
+# Stop server (Ctrl+C)`
+rm -r -fo node_modules`
+rm -fo package-lock.json`
+npm install`
+npm run dev
+npm install --legacy-peer-deps
+npm run dev
+notepad package.json
+# Save package.json
+npm install
+npm run dev
+notepad src\components\canvas\index.js
+notepad src\components\About.jsx
+notepad src\components\canvas\Earth.jsx
+notepad src\components\canvas\Computers.jsx
+npm run dev
+notepad src\components\Works.jsx
+notepad src\components\About.jsx
+npm run dev
+notepad src\components\About.jsx
+npm run dev
+notepad src\components\Contact.jsx
+npm run dev
+npm run build
+npm run dev
+notepad src\App.jsxnotepad src\App.jsx
+dir src\App.jsx
+dir src\components\`
+dir src\components\canvas\
+notepad src\main.jsx
+npm run dev
+npm built
+npm build
+npm run dev
+npm install react-parallax-tilt three@0.161.0
+npm run dev
+npm list react-tilt
+npm install react-tilt --legacy-peer-deps
+npm uninstall react-tilt`
+npm install react-tilt@0.1.4 --legacy-peer-deps
+npm run dev
+npm built
+cd "C:\Users\Lenovo\Downloads\project_3D_developer_portfolio-main\project_3D_developer_portfolio-main"`
+dir src\
+type src\App.jsx
+npm run build
+npm run dev
+# 1. Check components directory`
+dir src\components\`
+`
+# 2. Check if components/index.js exists  `
+type src\components\index.js`
+`
+# 3. Check browser console errors`
+#    Open http://localhost:5173/ → F12 → Console
+npm run dev
+cd ..`
+git clone https://github.com/adrianhajdin/project_3D_developer_portfolio.git kishore-portfolio-fresh`
+cd kishore-portfolio-fresh`
+npm install --legacy-peer-deps`
+npm run dev
+# Copy your constants`
+copy ..\backup-portfolio\src\constants\index.js src\constants\index.js`
+`
+# Copy your contact details  `
+copy ..\backup-portfolio\src\components\Contact.jsx src\components\Contact.jsx`
+`
+# Copy your photos`
+copy ..\backup-portfolio\src\assets\*.jpg src\assets\ /Y`
+copy ..\backup-portfolio\src\assets\*.png src\assets\ /Y
+# Navigate to your main project directory`
+cd "C:\Users\Lenovo\Downloads\project_3D_developer_portfolio-main\project_3D_developer_portfolio-main"`
+`
+# Copy from your existing project to new one`
+copy src\constants\index.js ..\kishore-portfolio-fresh\src\constants\index.js`
+copy src\components\Contact.jsx ..\kishore-portfolio-fresh\src\components\Contact.jsx`
+`
+# Copy assets (images)`
+copy src\assets\* ..\kishore-portfolio-fresh\src\assets\ -Recurse -Force
+# Go to your current working project`
+cd "C:\Users\Lenovo\Downloads\project_3D_developer_portfolio-main\project_3D_developer_portfolio-main"`
+`
+# Run dev server and check browser console`
+npm run dev
+# Navigate to your directory`
+cd C:\Users\Lenovo\Downloads\project_3D_developer_portfolio-main`
+`
+# Clone the template (this matches the README)`
+git clone https://github.com/adrianhajdin/project_3D_developer_portfolio.git kishore-new-portfolio`
+`
+# Go to the project`
+cd kishore-new-portfolio`
+`
+# Install dependencies`
+npm install --legacy-peer-deps
+# Check current directory`
+pwd`
+`
+# List files to confirm project structure`
+dir`
+`
+# Or using ls`
+ls
+# Create a projects directory`
+mkdir C:\Users\Lenovo\projects`
+`
+# Move the project there`
+Move-Item .\kishore-new-portfolio\ C:\Users\Lenovo\projects\`
+`
+# Navigate to the new location`
+cd C:\Users\Lenovo\projects\kishore-new-portfolio`
+`
+# Start the server`
+npm run dev
+npm run dev
+# Copy icons to project`
+Copy-Item "C:\Users\Lenovo\Downloads\icons8-python-144.png" "public\icons\"`
+Copy-Item "C:\Users\Lenovo\Downloads\icons8-power-bi-144.png" "public\icons\" `
+Copy-Item "C:\Users\Lenovo\Downloads\icons8-tableau-software-144.png" "public\icons\"
+# Full path use பண்ண`
+Copy-Item "C:\Users\Lenovo\Downloads\icons8-python-144.png" "C:\Users\Lenovo\Desktop\project_3D_developer_portfolio\public\icons\"`
+Copy-Item "C:\Users\Lenovo\Downloads\icons8-power-bi-144.png" "C:\Users\Lenovo\Desktop\project_3D_developer_portfolio\public\icons\"`
+Copy-Item "C:\Users\Lenovo\Downloads\icons8-tableau-software-144.png" "C:\Users\Lenovo\Desktop\project_3D_developer_portfolio\public\icons\"
+# 1. Folder create`
+mkdir public\icons`
+`
+# 2. Icons copy`
+Copy-Item "C:\Users\Lenovo\Downloads\icons8-python-144.png" "public\icons\"`
+Copy-Item "C:\Users\Lenovo\Downloads\icons8-power-bi-144.png" "public\icons\" `
+Copy-Item "C:\Users\Lenovo\Downloads\icons8-tableau-software-144.png" "public\icons\"`
+`
+# 3. Check`
+dir public\icons\
+npm run dev
+export default EarthCanvas;
+# Downloads-ல் இருந்து icon-ஐ project-ல் copy பண்ண`
+Copy-Item "C:\Users\Lenovo\Downloads\letter-k_5379280.png" "public\favicon.ico"`
+`
+# அல்லது manually:`
+# C:\Users\Lenovo\Desktop\project_3D_developer_portfolio\public\ -ல் `
+# letter-k_5379280.png-ஐ copy பண்ணி, பெயர் "favicon.ico" ஆக மாற்ற
+:: Index.html-ஐ notepad-ல் open பண்ண`
+notepad public\index.html
+:: Package.json-ஐ notepad-ல open பணண
+notepad package.json
+npm run dev
+npm run dev
+cd C:\Users\Lenovo\Desktop\project_3D_developer_portfolio`
+`
+# Original package.json restore பண்ண`
+@"`
+{`
+  \"name\": \"kishore-portfolio\",`
+  \"private\": true,`
+  \"version\": \"1.0.0\",`
+  \"type\": \"module\",`
+  \"scripts\": {`
+    \"dev\": \"vite\",`
+    \"build\": \"vite build\",`
+    \"preview\": \"vite preview\"`
+  },`
+  \"dependencies\": {`
+    \"@emailjs/browser\": \"^3.10.0\",`
+    \"@react-three/drei\": \"^9.56.24\",`
+    \"@react-three/fiber\": \"^8.11.1\",`
+    \"framer-motion\": \"^9.0.7\",`
+    \"maath\": \"^0.5.2\",`
+    \"react\": \"^18.2.0\",`
+    \"react-dom\": \"^18.2.0\",`
+    \"react-router-dom\": \"^6.8.1\",`
+    \"react-tilt\": \"^0.1.4\",`
+    \"react-vertical-timeline-component\": \"^3.6.0\",`
+    \"three\": \"^0.149.0\"`
+  },`
+  \"devDependencies\": {`
+    \"@types/react\": \"^18.0.27\",`
+    \"@types/react-dom\": \"^18.0.10\",`
+    \"@vitejs/plugin-react\": \"^3.1.0\",`
+    \"autoprefixer\": \"^10.4.13\",`
+    \"postcss\": \"^8.4.21\",`
+    \"tailwindcss\": \"^3.2.6\",`
+    \"vite\": \"^4.1.0\"`
+  }`
+}`
+"@ | Out-File -FilePath "package.json" -Encoding utf8`
+`
+echo "Package.json restored successfully!"
+# Check if JSON is valid`
+node -e "console.log('JSON is valid:', require('./package.json').name)"
+# Git reset to original`
+git checkout HEAD -- package.json`
+`
+# Or reinstall`
+npm install
+cd C:\Users\Lenovo\Desktop\project_3D_developer_portfolio`
+`
+# 1. Fix package.json (remove react-tilt)`
+@"`
+{`
+  \"name\": \"kishore-portfolio\",`
+  \"private\": true,`
+  \"version\": \"0.0.0\",`
+  \"type\": \"module\",`
+  \"scripts\": {`
+    \"dev\": \"vite\",`
+    \"build\": \"vite build\",`
+    \"preview\": \"vite preview\"`
+  },`
+  \"dependencies\": {`
+    \"@emailjs/browser\": \"^3.10.0\",`
+    \"@react-three/drei\": \"^9.56.24\",`
+    \"@react-three/fiber\": \"^8.11.1\",`
+    \"framer-motion\": \"^9.0.7\",`
+    \"maath\": \"^0.5.2\",`
+    \"react\": \"^18.2.0\",`
+    \"react-dom\": \"^18.2.0\",`
+    \"react-router-dom\": \"^6.8.1\",`
+    \"react-vertical-timeline-component\": \"^3.6.0\",`
+    \"three\": \"^0.149.0\"`
+  },`
+  \"devDependencies\": {`
+    \"@types/react\": \"^18.0.27\",`
+    \"@types/react-dom\": \"^18.0.10\",`
+    \"@vitejs/plugin-react\": \"^3.1.0\",`
+    \"autoprefixer\": \"^10.4.13\",`
+    \"postcss\": \"^8.4.21\",`
+    \"tailwindcss\": \"^3.2.6\",`
+    \"vite\": \"^4.1.0\"`
+  }`
+}`
+"@ | Out-File -FilePath "package.json" -Encoding utf8`
+`
+# 2. Clean install`
+Remove-Item -Recurse -Force node_modules -ErrorAction SilentlyContinue`
+Remove-Item package-lock.json -ErrorAction SilentlyContinue`
+`
+# 3. Install with legacy peer deps`
+npm install --legacy-peer-deps`
+`
+# 4. Start project`
+npm run dev
+cd C:\Users\Lenovo\Desktop\project_3D_developer_portfolio`
+`
+# Create clean package.json without escape characters`
+$packageJson = @'`
+{`
+  "name": "kishore-portfolio",`
+  "private": true,`
+  "version": "0.0.0",`
+  "type": "module",`
+  "scripts": {`
+    "dev": "vite",`
+    "build": "vite build",`
+    "preview": "vite preview"`
+  },`
+  "dependencies": {`
+    "@emailjs/browser": "^3.10.0",`
+    "@react-three/drei": "^9.56.24",`
+    "@react-three/fiber": "^8.11.1",`
+    "framer-motion": "^9.0.7",`
+    "maath": "^0.5.2",`
+    "react": "^18.2.0",`
+    "react-dom": "^18.2.0",`
+    "react-router-dom": "^6.8.1",`
+    "react-vertical-timeline-component": "^3.6.0",`
+    "three": "^0.149.0"`
+  },`
+  "devDependencies": {`
+    "@types/react": "^18.0.27",`
+    "@types/react-dom": "^18.0.10",`
+    "@vitejs/plugin-react": "^3.1.0",`
+    "autoprefixer": "^10.4.13",`
+    "postcss": "^8.4.21",`
+    "tailwindcss": "^3.2.6",`
+    "vite": "^4.1.0"`
+  }`
+}`
+'@`
+`
+$packageJson | Out-File -FilePath "package.json" -Encoding utf8`
+echo "Package.json created successfully!"
+# Check if JSON is valid`
+Test-Json -Json (Get-Content package.json -Raw)`
+echo "JSON is valid: $?"
+cd C:\Users\Lenovo\Desktop\project_3D_developer_portfolio`
+`
+# 1. Delete corrupted file`
+Remove-Item package.json -ErrorAction SilentlyContinue`
+`
+# 2. Create new file`
+@'`
+{`
+  "name": "kishore-portfolio",`
+  "private": true,`
+  "version": "0.0.0",`
+  "type": "module",`
+  "scripts": {`
+    "dev": "vite",`
+    "build": "vite build",`
+    "preview": "vite preview"`
+  },`
+  "dependencies": {`
+    "@emailjs/browser": "^3.10.0",`
+    "@react-three/drei": "^9.56.24",`
+    "@react-three/fiber": "^8.11.1",`
+    "framer-motion": "^9.0.7",`
+    "maath": "^0.5.2",`
+    "react": "^18.2.0",`
+    "react-dom": "^18.2.0",`
+    "react-router-dom": "^6.8.1",`
+    "react-vertical-timeline-component": "^3.6.0",`
+    "three": "^0.149.0"`
+  },`
+  "devDependencies": {`
+    "@types/react": "^18.0.27",`
+    "@types/react-dom": "^18.0.10",`
+    "@vitejs/plugin-react": "^3.1.0",`
+    "autoprefixer": "^10.4.13",`
+    "postcss": "^8.4.21",`
+    "tailwindcss": "^3.2.6",`
+    "vite": "^4.1.0"`
+  }`
+}`
+'@ | Out-File package.json -Encoding utf8`
+`
+# 3. Install`
+npm install --legacy-peer-deps`
+`
+# 4. Start`
+npm run dev
+# Just install react-tilt (easiest solution)`
+npm install react-tilt@0.1.4 --legacy-peer-deps
+npm run dev
+# Check if favicon exists`
+dir public\favicon.*`
+`
+# If exists, start project`
+npm run dev
+cd C:\Users\Lenovo\Desktop\project_3D_developer_portfolio
+echo "=== Portfolio Setup Status ==="
+echo "1. Project Name: kishore-portfolio "
+echo "2. Browser Title: Kishore Portfolio | Data Analyst " 
+echo "3. Index.html: Updated "
+echo "4. Package.json: Fixed "
+echo "5. Components: Working "
+# Check favicon
+if (Test-Path "public\favicon.ico") {`
+    echo "6. Favicon: Custom K icon "`
+} else {`
+    echo "6. Favicon: Using default (can add later)"`
+}
+echo "Starting project..."
+npm run dev
+cd C:\Users\Lenovo\Desktop\project_3D_developer_portfolio
+# Check what's actually in the file
+Get-Content public\index.html
+# Or check first few lines
+Get-Content public\index.html | Select-Object -First 10
+# Force create new index.html`
+@'`
+<!DOCTYPE html>`
+<html lang="en">`
+  <head>`
+    <meta charset="UTF-8" />`
+    <link rel="icon" type="image/svg+xml" href="/favicon.ico" />`
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />`
+    <title>Kishore Portfolio | Data Analyst</title>`
+  </head>`
+  <body>`
+    <div id="root"></div>`
+    <script type="module" src="/src/main.jsx"></script>`
+  </body>`
+</html>`
+'@ | Out-File -FilePath "public\index.html" -Encoding utf8 -Force`
+`
+echo "Index.html forcefully updated!"
+# Verify the title changed`
+Get-Content public\index.html | Select-String "Kishore Portfolio"
+# Check file permissions`
+Get-ChildItem public\index.html | Format-List Name, Attributes, IsReadOnly`
+`
+# If read-only, remove attribute`
+Set-ItemProperty -Path "public\index.html" -Name IsReadOnly -Value $false
+npm run dev
+cd C:\Users\Lenovo\Desktop\project_3D_developer_portfolio`
+`
+# 1. Delete old file`
+Remove-Item "public\index.html" -Force -ErrorAction SilentlyContinue`
+`
+# 2. Create new file`
+$htmlContent = @'`
+<!DOCTYPE html>`
+<html lang="en">`
+  <head>`
+    <meta charset="UTF-8" />`
+    <link rel="icon" type="image/svg+xml" href="/favicon.ico" />`
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />`
+    <title>Kishore Portfolio | Data Analyst</title>`
+  </head>`
+  <body>`
+    <div id="root"></div>`
+    <script type="module" src="/src/main.jsx"></script>`
+  </body>`
+</html>`
+'@`
+`
+$htmlContent | Out-File -FilePath "public\index.html" -Encoding utf8`
+`
+# 3. Verify`
+echo "=== Verification ==="`
+Get-Content public\index.html | Select-String "Kishore Portfolio"`
+`
+# 4. Start project`
+npm run dev
+cd C:\Users\Lenovo\Desktop\project_3D_developer_portfolio
+# METHOD 6 - Just change title
+(Get-Content public\index.html) -replace '<title>.*</title>', '<title>Kishore Portfolio | Data Analyst</title>' | Set-Content public\index.html
+# Verify
+Get-Content public\index.html | Select-String "Kishore Portfolio"
+npm run dev
+cd C:\Users\Lenovo\Desktop\project_3D_developer_portfolio
+# Verify file content
+echo "=== Current File Content ==="
+Get-Content public\index.html | Select-Object -First 8
+echo "`n=== What to do ==="
+echo "1. File IS updated to 'Kishore Portfolio'"
+echo "2. This is BROWSER CACHE issue" 
+echo "3. Press Ctrl+Shift+R in browser"
+echo "4. Or try different browser"
+npm run dev
+cd C:\Users\Lenovo\Desktop\project_3D_developer_portfolio`
+`
+# Navigation component-ஐ find பண்ண`
+Get-ChildItem src\components\*nav* -Recurse`
+Get-ChildItem src\components\*Nav* -Recurse
+Copy-Item "C:\Users\Lenovo\Downloads\kishore_preffesional .pic.jpg" "public\kishore-photo.jpg"
+# Navbar.jsx-ஐ open பண்ண`
+notepad src\components\Navbar.jsx
+npm run dev
+cd C:\Users\Lenovo\Desktop\project_3D_developer_portfolio`
+`
+:: Project images download பண்ண`
+curl -o src\assets\stockmarket.png "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop"`
+curl -o src\assets\supermarket.png "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop"`
+curl -o src\assets\ecommerce.png "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop"`
+curl -o src\assets\socialmedia.png "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&h=400&fit=crop"`
+curl -o src\assets\caranalysis.png "https://images.unsplash.com/photo-1486496572940-2bb2341fdbdf?w=600&h=400&fit=crop"
+curl -o src\assets\stockmarket.png "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop"`
+curl -o src\assets\supermarket.png "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop"`
+curl -o src\assets\ecommerce.png "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop"`
+curl -o src\assets\socialmedia.png "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&h=400&fit=crop"`
+curl -o src\assets\caranalysis.png "https://images.unsplash.com/photo-1486496572940-2bb2341fdbdf?w=600&h=400&fit=crop"
+npm run dev
+# OneDrive-ல இருந்து current directory-ல copy பண்ண`
+copy "C:\Users\Lenovo\OneDrive\kishore.resume!!!..pdf" ".\public\Kishore_Resume.pdf"
+dir public
+npm run dev
+dir .env
+type .env
+type .env
+npm run dev
+`
+## **4. Folder Name Change பண்ணவும் (Optional)**`
+`
+**CMD-ல் இந்த commands use பண்ணவும்:**`
+`
+```cmd`
+cd C:\Users\Lenovo\Desktop`
+rename "project_3D_developer_portfolio" "kishore-3d-portfolio"
+cd C:\Users\Lenovo\Desktop`
+Rename-Item "project_3D_developer_portfolio" "kishore-3d-portfolio"
+cd PS C:\Users\Lenovo\Desktop\project_3D_developer_portfolio
+# First go to Desktop`
+cd C:\Users\Lenovo\Desktop`
+`
+# Rename the folder`
+Rename-Item "project_3D_developer_portfolio" "Kishore 3D Portfolio"`
+`
+# Go to new folder`
+cd "Kishore 3D Portfolio"`
+`
+# Verify`
+pwd
+# Go to a different directory first`
+cd C:\`
+`
+# Then rename`
+cd C:\Users\Lenovo\Desktop`
+Rename-Item "project_3D_developer_portfolio" "Kishore 3D Portfolio"
+cd "project_3D_developer_portfolio"
+npm run dev
+# Step 1: Go back to Desktop`
+cd ..`
+`
+# Step 2: Rename folder`
+Rename-Item "project_3D_developer_portfolio" "Kishore 3D Portfolio"`
+`
+# Step 3: Enter new folder`
+cd "Kishore 3D Portfolio"`
+`
+# Step 4: Verify`
+pwd`
+`
+# Step 5: Run project`
+npm run dev
+npm run dev
+npm install -g netlify-cli`
+npm run build`
+netlify login`
+netlify deploy --prod --dir=dist
+npm run dev
+npm start
+npm run dev
+# Windows`
+dir src\app\page.tsx`
+`
+# Mac/Linux`
+ls src/app/page.tsx`
+`
+# Or search for the file`
+find . -name "page.tsx" -type f
+code src/app/page.tsx
+code src/app/components/Products.tsx
+npm run dev
+code src/app/page.tsx
+code src/app/components/Products.tsx
+npm run dev
+npm install next-cloudinary cloudinary
+# Create utils directory if it doesn't exist`
+New-Item -ItemType Directory -Force -Path "src\utils"`
+`
+# Create cloudinary.ts file`
+New-Item -Path "src\utils\cloudinary.ts" -ItemType File`
+`
+# Verify file created`
+Get-ChildItem "src\utils\cloudinary.ts"
+code src/utils/cloudinary.ts
+code src/app/admin/page.tsx
+code src/app/components/Products.tsx
+code src/app/components/ProductsData.tsx
+code next.config.js
+code src/components/PerformanceMonitor.tsx
+npm built
+npm run dev
+npm install @cloudinary/url-gen
+# Stop your dev server first (Ctrl+C)`
+`
+# Remove node_modules and lock files`
+rm -rf node_modules package-lock.json`
+`
+# Clear npm cache`
+npm cache clean --force`
+`
+# Install everything fresh`
+npm install`
+`
+# Update browserslist`
+npx update-browserslist-db@latest`
+`
+# Start dev server again`
+npm run dev
+code next.config.js
+code src/components/PerformanceMonitor.tsx
+npm run dev
+cd C:\Users\Lenovo\nexusecommerce`
+dir src\app
+cd C:\Users\Lenovo\nextjs-ecomerce-websites`
+xcopy src src-backup /E /H /C /I
+rmdir /s src\app\cart`
+rmdir /s src\app\order`
+rmdir /s src\app\product`
+rmdir /s src\app\success`
+rmdir /s src\app\css
+cd C:\Users\Lenovo\nextjs-ecomerce-websites`
+`
+Remove-Item -Recurse -Force src\app\cart`
+Remove-Item -Recurse -Force src\app\order`
+Remove-Item -Recurse -Force src\app\product`
+Remove-Item -Recurse -Force src\app\success`
+Remove-Item -Recurse -Force src\app\css
+src/app/page.tsx
+src/app/admin/page.tsx
+npm run dev
+cd C:\Users\Lenovo\nextjs-ecomerce-websites`
+`
+# 1. Create css folder`
+mkdir src\app\css`
+`
+# 2. Create minimal globals.css`
+echo /* Minimal styles */ > src\app\css\globals.css`
+`
+# 3. Start dev server again`
+npm run dev
+# Remove the css import line`
+notepad src\app\layout.tsx`
+# Delete: import "./css/globals.css";`
+# Save and run:`
+npm run dev
+cd C:\Users\Lenovo\nextjs-ecomerce-websites`
+Remove-Item -Force src\app\css\globals.css
+npm run dev
+cd C:\Users\Lenovo\nextjs-ecomerce-websites
+# Delete current files
+Remove-Item -Recurse -Force src\app
+# Restore original from backup  
+xcopy src-backup\app src\app /E /H /C /I
+# Start project
+npm run dev
+cd C:\Users\Lenovo\nextjs-ecomerce-websites`
+`
+# 1. Restore original`
+Remove-Item -Recurse -Force src\app`
+xcopy src-backup\app src\app /E /H /C /I`
+`
+# 2. Check actual files`
+echo "=== COMPONENTS ==="`
+dir src\app\components`
+`
+echo "=== CONSTANTS ==="  `
+dir src\constants`
+`
+echo "=== CSS ==="`
+dir src\app\css
+npm run dev
+# Open ProductsData.tsx
+notepad src\app\components\ProductsData.tsx
+src/constants/data.ts
+src/constants/categories.ts
+code src/constants/categories.ts
+code  src/app/components/ProductsData.tsx
+npm run dev
+notepad src\app\components\Products.tsx
+npm run dev
+notepad src\app\components\Market.tsx
+rmdir /s .next
+npm run dev
+notepad next.config.js
+npm run dev
+notepad next.config.js
+# Delete categories cache
+rmdir /s .next
+# Stop server first`
+Ctrl+C`
+`
+# Delete .next folder`
+Remove-Item -Recurse -Force .next`
+`
+# Delete node_modules (if needed)`
+Remove-Item -Recurse -Force node_modules`
+`
+# Restart`
+npm run dev
+# 1. Stop server (Ctrl+C if running)`
+`
+# 2. Clear cache`
+Remove-Item -Recurse -Force .next`
+`
+# 3. Start server`
+npm run dev`
+`
+# 4. Browser: http://localhost:3000`
+# 5. Hard refresh: Ctrl+F5
+# Delete node_modules and reinstall`
+Remove-Item -Recurse -Force node_modules`
+npm install`
+npm run dev
+notepad src\helpers\index.ts
+Remove-Item -Recurse -Force .next
+npm run dev
+# 1. Stop server (Ctrl+C)`
+# 2. Restore from backup`
+xcopy src-backup\app src\app /E /H /C /I /Y`
+# 3. Clear cache`
+Remove-Item -Recurse -Force .next`
+# 4. Restart`
+npm run dev
+# 1. Ensure helpers uses data.ts products
+notepad src\helpers\index.ts
+notepad src\constants\data.ts
+notepad src\constants\categories.ts
+Remove-Item -Recurse -Force .next
+npm run dev
+# 1. Go to project folder
+cd C:\Users\Lenovo\nextjs-ecomerce-websites
+# 2. Stop server (Ctrl+C if running)
+# 3. Delete everything except backup
+Remove-Item -Recurse -Force src\app, .next, node_modules
+# 4. Restore COMPLETE backup
+xcopy src-backup src /E /H /C /I /Y
+# 5. Reinstall dependencies
+npm install
+# 6. Start fresh
+npm run dev
+yarn start
+node --version`
+npm --version
+npm install -g yarn
+npm start
+npm install
+npm start
+# Windows PowerShell-la:`
+$env:NODE_OPTIONS="--openssl-legacy-provider"`
+`
+# Then start again:`
+npm start
+# Current folder-la iruntha:
+cd ..
+rm -r Blogapp-using-MERN
+# (or) Full path specify pannu:
+pip install -r requirements.txt
+# First, try installing all packages`
+pip install -r requirements.txt`
+`
+# If that fails, install one by one`
+pip install streamlit==1.28.0`
+pip install mysql-connector-python==8.1.0`
+pip install openai==1.3.0`
+pip install python-docx==1.1.0`
+pip install PyPDF2==3.0.1`
+pip install numpy==1.24.3`
+pip install pandas==2.0.3`
+pip install sqlalchemy==2.0.23
+streamlit run app.py
+python test_connection.py
+python create_tables.py
+streamlit run app.py
+python check_tables.py
+streamlit run app.py
+python create_tables.py
+python tables.py
+streamlit run app.py
+pip install plotly
+streamlit run app.py
+pip install streamlit-lottie streamlit-extras
+streamlit run app.py
+python create_tables.py
+python checke_tables.py
+python tables2.py
+pip install -r requirements.txt
+streamlit run app.py
+# Terminal/CMD la type pannu`
+mkdir institute-billing`
+cd institute-billing`
+mkdir backend frontend database`
+mkdir frontend/public frontend/assets`
+mkdir backend/routes backend/models backend/config backend/middleware`
+`
+# File create pannu`
+touch backend/server.js backend/package.json`
+touch frontend/public/index.html frontend/public/style.css frontend/public/script.js`
+touch database/schema.sql
+cd "C:\Users\Lenovo\Desktop\institute biling system"`
+`
+mkdir backend frontend database`
+mkdir backend\routes backend\models backend\config backend\middleware`
+mkdir frontend\public frontend\assets`
+`
+type nul > backend\server.js`
+type nul > backend\package.json`
+type nul > frontend\public\index.html`
+type nul > frontend\public\style.css`
+type nul > frontend\public\script.js`
+type nul > database\schema.sql`
+type nul > backend\.env
+cd "C:\Users\Lenovo\Desktop\institute biling system"`
+`
+# One-by-one folder create pannu`
+mkdir backend`
+mkdir frontend  `
+mkdir database`
+mkdir backend\routes`
+mkdir backend\models`
+mkdir backend\config`
+mkdir backend\middleware`
+mkdir frontend\public`
+mkdir frontend\assets`
+`
+# Files create pannu`
+New-Item -Path "backend\server.js" -ItemType File`
+New-Item -Path "backend\package.json" -ItemType File`
+New-Item -Path "frontend\public\index.html" -ItemType File`
+New-Item -Path "frontend\public\style.css" -ItemType File`
+New-Item -Path "frontend\public\script.js" -ItemType File`
+New-Item -Path "database\schema.sql" -ItemType File`
+New-Item -Path "backend\.env" -ItemType File
+# Folder structure check pannu`
+Get-ChildItem -Recurse
+code backend/package.json
+code backend/.env
+cd backend`
+npm install
+code backend/server.js
+code frontend/public/index.html
+code frontend/public/script.js
+cd backend`
+node server.js
+# Ippo nee already backend folder la irukke, so direct ah server start pannu`
+node server.js
+node server.js
+npm install
+Get-Content server.js
+Copy-Item server.js server-backup.js
+node server.js
+code backend/config/database.js
+node server.js
+Copy-Item server.js server-old.js
+cd "C:\Users\Lenovo\Desktop\institute biling system"`
+`
+# Server files ah backend folder ku move pannu`
+Move-Item server.js backend\server.js`
+Move-Item server-old.js backend\server-old.js`
+`
+# Check structure`
+Get-ChildItem
+pwd
+cd C:\Users\Lenovo\Desktop\institute biling system\backend
+cd backend
+Get-ChildItem
+code backend/config/database.js
+# Simple server create pannu`
+@"`
+const express = require('express');`
+const cors = require('cors');`
+const path = require('path');`
+require('dotenv').config();`
+`
+// Database connection`
+const db = require('./config/database');`
+`
+const app = express();`
+const PORT = 3000;`
+`
+// Middleware`
+app.use(cors());`
+app.use(express.json());`
+`
+// Test database connection`
+app.get('/api/db-test', async (req, res) => {`
+    try {`
+        const [rows] = await db.execute('SELECT 1 + 1 AS result');`
+        res.json({ `
+            success: true, `
+            message: '🎉 Database connected successfully!',`
+            data: rows `
+        });`
+    } catch (error) {`
+        res.json({ `
+            success: false, `
+            message: '❌ Database connection failed!',`
+            error: error.message `
+        });`
+    }`
+});`
+`
+// Basic route`
+app.get('/api/test', (req, res) => {`
+    res.json({ `
+        success: true, `
+        message: 'API Working! 🎉',`
+        time: new Date().toISOString()`
+    });`
+});`
+`
+// Simple HTML`
+app.get('/', (req, res) => {`
+    res.send(``
+        <html>`
+            <head><title>Institute System</title></head>`
+            <body style="font-family: Arial; padding: 20px;">`
+                <h1>🎓 Institute Billing System</h1>`
+                <p>✅ Backend is working!</p>`
+                <p><a href="/api/test">Test API</a></p>`
+                <p><a href="/api/db-test">Test Database</a></p>`
+            </body>`
+        </html>`
+    `);`
+});`
+`
+app.listen(PORT, () => {`
+    console.log('🚀 Server started: http://localhost:3000');`
+});`
+"@ | Out-File server.js -Encoding utf8
+node server.js
+# Remove old server.js`
+Remove-Item server.js`
+`
+# Create new server.js with proper escaping`
+@"`
+const express = require('express');`
+const cors = require('cors');`
+const path = require('path');`
+require('dotenv').config();`
+`
+// Database connection`
+const db = require('./config/database');`
+`
+const app = express();`
+const PORT = 3000;`
+`
+// Middleware`
+app.use(cors());`
+app.use(express.json());`
+`
+// Test database connection`
+app.get('/api/db-test', async (req, res) => {`
+    try {`
+        const [rows] = await db.execute('SELECT 1 + 1 AS result');`
+        res.json({ `
+            success: true, `
+            message: '🎉 Database connected successfully!',`
+            data: rows `
+        });`
+    } catch (error) {`
+        res.json({ `
+            success: false, `
+            message: '❌ Database connection failed!',`
+            error: error.message `
+        });`
+    }`
+});`
+`
+// Basic route`
+app.get('/api/test', (req, res) => {`
+    res.json({ `
+        success: true, `
+        message: 'API Working! 🎉',`
+        time: new Date().toISOString()`
+    });`
+});`
+`
+// Simple HTML - PROPERLY ESCAPED`
+app.get('/', (req, res) => {`
+    res.send('<html><head><title>Institute System</title></head><body style=\"font-family: Arial; padding: 20px;\"><h1>🎓 Institute Billing System</h1><p>✅ Backend is working!</p><p><a href=\"/api/test\">Test API</a></p><p><a href=\"/api/db-test\">Test Database</a></p></body></html>');`
+});`
+`
+app.listen(PORT, () => {`
+    console.log('🚀 Server started: http://localhost:3000');`
+    console.log('🔧 API Test: http://localhost:3000/api/test');`
+    console.log('🗄️ DB Test: http://localhost:3000/api/db-test');`
+});`
+"@ | Out-File server.js -Encoding utf8
+Get-Content server.js | Select-Object -First 20
+Get-Content config/database.js
+node server.js
+# Real database connection ah enable pannu`
+@"`
+const express = require('express');`
+const cors = require('cors');`
+const path = require('path');`
+require('dotenv').config();`
+`
+// Database connection`
+const db = require('./config/database');`
+`
+const app = express();`
+const PORT = 3000;`
+`
+// Middleware`
+app.use(cors());`
+app.use(express.json());`
+`
+// Test database connection`
+app.get('/api/db-test', async (req, res) => {`
+    try {`
+        const [rows] = await db.execute('SELECT * FROM students');`
+        res.json({ `
+            success: true, `
+            message: '🎉 Database connected successfully!',`
+            students: rows,`
+            count: rows.length `
+        });`
+    } catch (error) {`
+        res.json({ `
+            success: false, `
+            message: '❌ Database connection failed!',`
+            error: error.message,`
+            fix: 'Check MySQL Workbench and database setup'`
+        });`
+    }`
+});`
+`
+// Get all students`
+app.get('/api/students', async (req, res) => {`
+    try {`
+        const [rows] = await db.execute('SELECT * FROM students');`
+        res.json({ `
+            success: true, `
+            data: rows,`
+            count: rows.length `
+        });`
+    } catch (error) {`
+        res.status(500).json({ `
+            success: false, `
+            message: 'Error fetching students',`
+            error: error.message `
+        });`
+    }`
+});`
+`
+// Get all courses`
+app.get('/api/courses', async (req, res) => {`
+    try {`
+        const [rows] = await db.execute('SELECT * FROM courses');`
+        res.json({ `
+            success: true, `
+            data: rows,`
+            count: rows.length `
+        });`
+    } catch (error) {`
+        res.status(500).json({ `
+            success: false, `
+            message: 'Error fetching courses',`
+            error: error.message `
+        });`
+    }`
+});`
+`
+// Basic route`
+app.get('/api/test', (req, res) => {`
+    res.json({ `
+        success: true, `
+        message: 'API Working! 🎉',`
+        time: new Date().toISOString()`
+    });`
+});`
+`
+// Simple HTML`
+app.get('/', (req, res) => {`
+    res.send('<html><head><title>Institute System</title><style>body{font-family:Arial;padding:20px;background:#f5f5f5;} .card{background:white;padding:20px;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.1);}</style></head><body><div class=\"card\"><h1>🎓 Institute Billing System</h1><p>✅ Backend is working!</p><p><a href=\"/api/test\">Test API</a> | <a href=\"/api/db-test\">Test Database</a></p><p><a href=\"/api/students\">View Students</a> | <a href=\"/api/courses\">View Courses</a></p></div></body></html>');`
+});`
+`
+app.listen(PORT, () => {`
+    console.log('🚀 Institute Billing System - FULL VERSION');`
+    console.log('📱 Dashboard: http://localhost:3000');`
+    console.log('👨‍🎓 Students API: http://localhost:3000/api/students');`
+    console.log('📚 Courses API: http://localhost:3000/api/courses');`
+});`
+"@ | Out-File server.js -Encoding utf8
+# Current server stop (Ctrl+C)`
+# Then new server start`
+node server.js
+# .env file check pannu`
+Get-Content .env
+# Real database connection ah server.js la enable pannu`
+@"`
+const express = require('express');`
+const cors = require('cors');`
+const path = require('path');`
+require('dotenv').config();`
+`
+// Database connection`
+const db = require('./config/database');`
+`
+const app = express();`
+const PORT = 3000;`
+`
+// Middleware`
+app.use(cors());`
+app.use(express.json());`
+`
+// Test database connection`
+app.get('/api/db-test', async (req, res) => {`
+    try {`
+        const [rows] = await db.execute('SELECT * FROM students');`
+        res.json({ `
+            success: true, `
+            message: '🎉 Database connected successfully!',`
+            students: rows,`
+            count: rows.length `
+        });`
+    } catch (error) {`
+        res.json({ `
+            success: false, `
+            message: '❌ Database connection failed!',`
+            error: error.message`
+        });`
+    }`
+});`
+`
+// Get all students`
+app.get('/api/students', async (req, res) => {`
+    try {`
+        const [rows] = await db.execute('SELECT * FROM students ORDER BY created_at DESC');`
+        res.json({ `
+            success: true, `
+            data: rows,`
+            count: rows.length `
+        });`
+    } catch (error) {`
+        res.status(500).json({ `
+            success: false, `
+            message: 'Error fetching students',`
+            error: error.message `
+        });`
+    }`
+});`
+`
+// Get all courses`
+app.get('/api/courses', async (req, res) => {`
+    try {`
+        const [rows] = await db.execute('SELECT * FROM courses');`
+        res.json({ `
+            success: true, `
+            data: rows,`
+            count: rows.length `
+        });`
+    } catch (error) {`
+        res.status(500).json({ `
+            success: false, `
+            message: 'Error fetching courses',`
+            error: error.message `
+        });`
+    }`
+});`
+`
+// Get institute details`
+app.get('/api/institute', async (req, res) => {`
+    try {`
+        const [rows] = await db.execute('SELECT * FROM institutes LIMIT 1');`
+        res.json({ `
+            success: true, `
+            data: rows[0] || {} `
+        });`
+    } catch (error) {`
+        res.status(500).json({ `
+            success: false, `
+            message: 'Error fetching institute details',`
+            error: error.message `
+        });`
+    }`
+});`
+`
+// Add new student`
+app.post('/api/students', async (req, res) => {`
+    try {`
+        const { full_name, email, phone, guardian_name, guardian_phone } = req.body;`
+        `
+        // Generate admission number`
+        const [count] = await db.execute('SELECT COUNT(*) as total FROM students');`
+        const admission_no = 'INST/2024/' + String(count[0].total + 1).padStart(3, '0');`
+        `
+        const [result] = await db.execute(`
+            'INSERT INTO students (admission_no, full_name, email, phone, guardian_name, guardian_phone) VALUES (?, ?, ?, ?, ?, ?)',`
+            [admission_no, full_name, email, phone, guardian_name, guardian_phone]`
+        );`
+        `
+        res.json({ `
+            success: true, `
+            message: 'Student added successfully!',`
+            admission_no: admission_no,`
+            student_id: result.insertId `
+        });`
+    } catch (error) {`
+        res.status(500).json({ `
+            success: false, `
+            message: 'Error adding student',`
+            error: error.message `
+        });`
+    }`
+});`
+`
+// Basic route`
+app.get('/api/test', (req, res) => {`
+    res.json({ `
+        success: true, `
+        message: 'API Working! 🎉',`
+        time: new Date().toISOString()`
+    });`
+});`
+`
+// Dashboard`
+app.get('/', (req, res) => {`
+    res.send('<html><head><title>Institute System</title><style>body{font-family:Arial;padding:20px;background:#f5f5f5;} .card{background:white;padding:20px;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.1);margin:10px;} .btn{padding:10px 15px;margin:5px;text-decoration:none;border-radius:5px;display:inline-block;} .primary{background:#007bff;color:white;} .success{background:#28a745;color:white;}</style></head><body><div class=\"card\"><h1>🎓 Institute Billing System</h1><p>✅ Database Integrated Successfully!</p><div><a class=\"btn primary\" href=\"/api/students\">👨‍🎓 View Students</a><a class=\"btn success\" href=\"/api/courses\">📚 View Courses</a><a class=\"btn primary\" href=\"/api/institute\">🏫 Institute Info</a></div></div></body></html>');`
+});`
+`
+app.listen(PORT, () => {`
+    console.log('🚀 Institute Billing System - DATABASE CONNECTED');`
+    console.log('📱 Dashboard: http://localhost:3000');`
+    console.log('👨‍🎓 Students: http://localhost:3000/api/students');`
+    console.log('📚 Courses: http://localhost:3000/api/courses');`
+    console.log('🏫 Institute: http://localhost:3000/api/institute');`
+});`
+"@ | Out-File server.js -Encoding utf8
+node server.js
+cd "C:\Users\Lenovo\Desktop\institute biling system"`
+npm create vite@latest react-frontend -- --template react`
+cd react-frontend`
+npm install
+cd "C:\Users\Lenovo\Desktop\institute biling system\react-frontend"
+npm install axios bootstrap react-bootstrap`
+npm install @fortawesome/fontawesome-free
+code src/App.jsx
+node server.js
+npm run dev
+cd "C:\Users\Lenovo\Desktop\institute biling system"
+npm run dev
+cd react-frontend
+npm run dev
+code backend/routes/invoices.js
+code backend/server.js
+cd backend 
+npm install pdfkit
+npm run dev
+code backend/config/database.js:
+code backend/config/database.js:
+code backend/config/database.js:
+code backend/routes/students.js
+code backend/routes/invoices.js
+code backend/routes/courses.js
+npm run dev
+code backend/config/database.js
+npm run dev
+cd backend
+npm start
+code Login.jsx
+npm run dev
+code src/Login.jsx
+npm run dev
+code src/Login.jsx
+npm run dev
+cd react-frontend
+npm run dev 
+cd backend 
+npm run dev
+clear
+npm start
+clear
+npm run dev
+clear
+npm run build
+clear
+npm start
+clear
+npm start
+clear
+npm run dev
+clear
+npm start
+clear
+cd backend
+npm start
+cd frontend
+npm run dev
+clear
+cd..
+cd react-frontend
+npm run dev
+clear
+clear
+cd backend
+npm start
+cd react-frontend
+npm run dev
+cd backend
+cd react-frontend
+npm run dev
+npm start
+cd react-frontend
+cd backend
+mpn start
+clear
+npm start
+npm run dev
+clear
+cd react-frontend
+npm run dev
+cd backend
+npm start
+clear
+npm run dev
+clear
+npm start
+clear
+npm start
+cd react-frontend
+npm run dev
+cd backend
+npm start
+cd react-frontend
+npm run dev 
+cd backend 
+npm start
+echo "# Billing-system" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/KishoreKumar114/Billing-system.git
+git push -u origin main
+git push https://github.com/KishoreKumar114/Billing-system.git
+git status
+cd..
+cd institute billing system
+cd institute biling system
+clear
+cd institute biling system
+clear
+cd institute biling system
+cd "institute biling system"
+clear
+git push https://github.com/KishoreKumar114/Billing-system.git
+git remote add origin https://github.com/KishoreKumar114/Billing-system.git
+clear
+git remote -v`
+
+git add .`
+
+git commit -m "first commit"`
+
+git push -u origin main
+clear
+tree /f`
+
+clear
+tree /F /A | findstr /V "node_modules"`
+
+clear
+npm start
+cd frontend 
+clear
+cd react-frontend
+npm run dev
+cd backend
+npm start
+cd react-frontend
+npm run dev
+cd backend
+npm start
+cd backend
+cd..
+clear
+git add .`
+
+git commit -m "first commit"`
+
+git branch -M main`
+git remote add origin https://github.com/KishoreKumar114/Billing-system.git`
+git push -u origin main
+cd backend
+npm install`
+
+node server.js`
+
+npm run dev
+streamlit run app.py
+git add .`
+
+git commit -m "first commit"`
+
+clear
+echo "# Smart_Hire_AI" >> README.md`
+git init`
+git add README.md`
+git commit -m "first commit"`
+git branch -M main`
+git remote add origin https://github.com/KishoreKumar114/Smart_Hire_AI.git`
+git push -u origin main
